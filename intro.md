@@ -3,5 +3,5 @@
 최근에는 차세대 메모리(Next-generation Memory)를 위한 파일 시스템과 클라우드 컴퓨팅의 기반 기술인 가상화 기술(Virtualization Technology)에 대한 연구를 진행하고 있으며, 이와 더불어 다중 사용자 지원을 위한 UX/UI 플랫폼(UX/UI Platform) 등 여러 분야에 대한 연구를 진행하고 있다.
 
 
-[kor.png](kor.png)
+![kor.png](kor.png)
 
