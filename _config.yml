@@ -1,5 +1,30 @@
-# https://pages.github.com/themes/
-# http://jekyllthemes.org/
-# https://github.com/pages-themes/leap-day
-# https://pages-themes.github.io/leap-day/nist
-theme: jekyll-theme-leap-day
+# Site settings
+title: The Schloss Lab
+email: pschloss@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+   The website for the research group of Dr. Pat Schloss at the University
+   of Michigan in the Department of Microbiology & Immunology
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://schlosslab.github.io" # the base hostname & protocol for your site
+twitter_username: patschloss
+github_username:  schlosslab
+array: []
+
+# Build settings
+markdown: kramdown
+
+collections:
+  labbies:
+    output: true
+  science:
+    output: true
+  papers:
+    output: true
+  software:
+    output: true
+  lab_business:
+    output: true
+
+
+plugins:
+  - jekyll-sitemap

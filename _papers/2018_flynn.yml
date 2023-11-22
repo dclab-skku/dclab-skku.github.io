@@ -1,0 +1,20 @@
+---
+title: Spatial variation of the native colon microbiota in healthy adults
+year: 2018
+order: 8
+authors: Flynn KJ, Ruffin  MT IV, Turgeon DK, Schloss PD
+journal: Cancer Prev Res (Phila)
+volume: 11
+issue: 7
+pages: 393-401
+doi: 10.1158/1940-6207.CAPR-17-0370
+PMID: 29636352
+PMCID:
+preprint: https://doi.org/10.1101/189886
+google_scholar:
+github: https://github.com/SchlossLab/Flynn_LRColon_CancPrevRes_2017
+data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418115
+labbies: [ schloss, flynn ]
+media:
+section: cancer
+---

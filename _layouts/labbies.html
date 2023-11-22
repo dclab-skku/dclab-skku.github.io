@@ -1,0 +1,126 @@
+---
+layout: default
+---
+
+<div class="labbies">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-7">
+				<h2>{{ page.title }}</h2>
+
+				<div class="social">
+					{% if page.email	%}
+					<a href="mailto:{{ page.email }}">
+						<i class="fa fa-envelope-o"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.twitter	%}
+					<a href="https://twitter.com/{{ page.twitter }}">
+						<i class="fa fa-twitter"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.github	%}
+					<a href="https://github.com/{{ page.github }}">
+						<i class="fa fa-github"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.google_scholar	%}
+					<a href="{{page.google_scholar}}">
+						<i class="ai ai-google-scholar"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.orcid	%}
+					<a href="http://orcid.org/{{page.orcid}}">
+						<i class="ai ai-orcid"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.research_gate	%}
+					<a href="https://www.researchgate.net/profile/{{page.research_gate}}">
+						<i class="ai ai-researchgate"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.linkedin	%}
+					<a href="https://linkedin.com/in/{{ page.linkedin }}">
+						<i class="fa fa-linkedin"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.website	%}
+					<a href="{{ page.website }}">
+						<i class="fa fa-globe"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.phone	%}
+					• {{ page.phone }}
+					{% endif			%}
+
+				</div>
+
+				<p>
+					{% if page.left_lab == nil %}
+					{{ page.position }} since {{ page.joined_lab }}
+					{%	else					%}
+					{{ page.position }} from {{ page.joined_lab }} to {{ page.left_lab }}
+					{% endif 					%}
+				</p>
+
+				<h3>Research areas</h3>
+				<ul>
+					{%	for theme in page.theme_areas	%}
+					<!--- Need to create links to these theme pages --->
+					<li>{{ theme }}</li>
+					{%	endfor							%}
+				</ul>
+
+				<h3>Education</h3>
+				<ul>
+					{%	for step in page.previous_training	%}
+					<li>{{ step[0] }}: {{ step[1] }}</li>
+					{%	endfor								%}
+				</ul>
+
+			</div>
+			<div class="col-md-5">
+				<img class="img-responsive" src="{{ page.picture }}" alt="{{ page.title }}" />
+			</div>
+		</div>
+	</div>
+
+	<h3>Background</h3>
+    {{ content }}
+
+
+	{% assign labbie = page.url | remove:'/labbies/' | remove:'.html' %}
+	{% assign labbie_papers = site.array %}
+	{% for paper in site.papers reversed %}
+		{% if paper.labbies contains labbie %}
+			{% assign labbie_papers = labbie_papers | push: paper %}
+		{% endif %}
+	{% endfor %}
+
+	{% assign paper_count = labbie_papers | size %}
+	{% if paper_count > 0 %}
+		{% assign sorted_papers = labbie_papers | sort: 'year' %}
+
+		<h3>Papers from time in Schloss lab</h3>
+		<div class="papers">
+			<ol>
+				{% for paper in sorted_papers %}
+					{% if paper.layout == "chapter" %}
+						<li>{% include reference_chapter.html ref=paper %}</li>
+					{% else %}
+						<li>{% include reference_paper.html ref=paper %}</li>
+					{% endif %}
+				{% endfor %}
+			</ol>
+		</div>
+
+	{% endif %}
+</div>
