@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: alumni
+status: alumni_phd
 title: Geunsik Lim
 picture: /assets/img/geunsik.jpg
 previous_training:
@@ -9,7 +9,7 @@ previous_training:
   PhD : Sungkyunkwan University (2023)
 joined_lab: 2012
 position: Principal S/W Researcher & Developer at Samsung Electronics
-theme-areas:
+theme_areas:
   - Embedded Systems
   - Operating System
   - Mobile Platform
