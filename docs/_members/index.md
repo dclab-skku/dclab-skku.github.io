@@ -8,7 +8,7 @@ The members of the DC Lab represent a diverse array of backgrounds, interests, a
 
 <h4>Professor</h4>
 {% assign page_array = site.members | where:"status", "professor"		%}
-{% include picture_grid.html pages=page_array columns=2	         		%}
+{% include picture_grid.html pages=page_array columns=4         		%}
 
 <h4>Ph.D. Students</h4>
 {% assign page_array = site.members | where:"status", "current_phd"		%}
