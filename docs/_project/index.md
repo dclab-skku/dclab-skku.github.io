@@ -8,8 +8,11 @@ We develop software tools to help us analyze multi-omics data and make sense of
 the microbial world. All of our code is open source and available on
 [Github](https://github.com/dclab4u). Click on the badges below to learn more
 about the software we develop.
-
+<br>
 <hr>
+
+<br>
+<br>
 
 <h1>진행 중인 프로젝트</h1>
 <ul>
@@ -17,8 +20,6 @@ about the software we develop.
 <li>(SW 스타랩) 중대형 디스플레이 기반 동시 다중 사용자 지원 UX 플랫폼 SW 개발, 2015.03~2022.12, 과학기술정보통신부</li>
 </ul>
 
-<br>
-<br>
 <br>
 <br>
 
