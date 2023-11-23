@@ -5,7 +5,6 @@ title: Jaegon Kim
 picture: /assets/img/jaegon.jpg
 previous_training:
   MS : Sungkyunkwan University (2015)
-  PhD : Sungkyunkwan University (WIP)
 joined_lab: 2016
 position: Ph.D. Candidate
 theme_areas:

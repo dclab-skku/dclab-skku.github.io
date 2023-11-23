@@ -8,7 +8,7 @@ previous_training:
   PhD : Sungkyunkwan University (2024)
 joined_lab: 2016
 position: Ph.D. Candidate
-theme-areas:
+theme_areas:
   - Distributed System
   - Operating System
   - File System
