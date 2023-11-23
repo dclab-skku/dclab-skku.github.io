@@ -6,6 +6,10 @@ title: Members
 
 The members of the DC Lab represent a diverse array of backgrounds, interests, and goals.
 
+<h4>Professor</h4>
+{% assign page_array = site.members | where:"status", "professor"		%}
+{% include picture_grid.html pages=page_array columns=2	         		%}
+
 <h4>Ph.D. Students</h4>
 {% assign page_array = site.members | where:"status", "current_phd"		%}
 {% include picture_grid.html pages=page_array columns=4				%}

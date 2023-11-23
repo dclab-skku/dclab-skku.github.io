@@ -4,9 +4,9 @@ status: professor
 title: Young Ik Eom
 picture: /assets/img/yieom.jpg
 previous_training:
-  BS : Seoul Univeristy (1900)
-  MS : Seoul University (1900)
-  PhD : Seoul University (1900)
+  BS : Seoul Univeristy (1983)
+  MS : Seoul University (1985)
+  PhD : Seoul University (1991)
 joined_lab: 1995
 position: 정교수 
 theme_areas:
