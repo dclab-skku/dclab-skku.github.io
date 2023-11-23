@@ -14,15 +14,15 @@ array: []
 markdown: kramdown
 
 collections:
-  labbies:
+  project:
     output: true
-  science:
+  members:
     output: true
   papers:
     output: true
-  software:
+  gallery:
     output: true
-  lab_business:
+  researc_area:
     output: true
 
 
