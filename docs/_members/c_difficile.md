@@ -1,6 +1,6 @@
 ---
 layout: index_page
-category: science
+category: members
 title: <i>C. difficile</i> Infection
 ---
 

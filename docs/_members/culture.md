@@ -1,7 +1,7 @@
 ---
 layout: index_page
-category: science
-title: Scientific culture
+category: members
+title: Members
 ---
 
 {% include topic_bibliography.html topic="culture" %}

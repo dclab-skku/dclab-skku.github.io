@@ -1,9 +1,9 @@
 ---
 layout: index_page
-category: science
+category: members
 title: General microbiome research
 ---
 
 {% include topic_bibliography.html topic="microbiome" %}
 
-[back...](/science)
+[back...](/members)

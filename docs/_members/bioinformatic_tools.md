@@ -1,9 +1,9 @@
 ---
 layout: index_page
-category: science
+category: members
 title: Bioinformatic tool development
 ---
 
 {% include topic_bibliography.html topic="tool" %}
 
-[back...](/science)
+[back...](/members)
