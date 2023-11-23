@@ -4,9 +4,12 @@ category: projects
 title: Projects
 ---
 
-<div id="gap"> 
-<div style="overflow:hidden;WIDTH: 100%; FLOAT: left">
-<div style="padding:0px 0px 0px 0px !important;">
+We develop software tools to help us analyze multi-omics data and make sense of
+the microbial world. All of our code is open source and available on
+[Github](https://github.com/dclab4u). Click on the badges below to learn more
+about the software we develop.
+
+<hr>
 
 <h1>진행 중인 프로젝트</h1>
 <ul>
@@ -86,10 +89,5 @@ title: Projects
 <li>국내 정보통신 분야의 전문인력 분석 및인력 데이터베이스 구축, 1995.03~1996.02</li>
 </ul>
 
-</div>
-</div>
-</div>
-		
 	
-{% assign page_array = site.labbies | where:"status","alumni"		%}
-{% include picture_grid.html pages=page_array columns=4				%}
+
