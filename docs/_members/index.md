@@ -8,7 +8,7 @@ title: Members
 ### 지도교수 
 
 분산컴퓨팅 랩의 학생들을 지도하고 계시는 교수님 정보입니다. 
-{% include topic_bibliography.html topic="cancer" n=5 %}
+{% include topic_bibliography.html topic="crc" n=5 %}
 
 [See more...](professor)
 

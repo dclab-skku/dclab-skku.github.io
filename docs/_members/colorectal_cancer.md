@@ -1,9 +1,9 @@
 ---
 layout: index_page
-category: science
-title: Colorectal cancer
+category: members
+title: Members
 ---
 
 {% include topic_bibliography.html topic="cancer" %}
 
-[back...](/science)
+[back...](/members)
