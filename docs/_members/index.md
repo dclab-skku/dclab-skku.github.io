@@ -6,12 +6,12 @@ title: Members
 
 The members of the DC Lab represent a diverse array of backgrounds, interests, and goals.
 
-<h4>Ph.D.</h4>
-{% assign page_array = site.members | where:"status", "currentf_phd"		%}
+<h4>Ph.D. Students</h4>
+{% assign page_array = site.members | where:"status", "current_phd"		%}
 {% include picture_grid.html pages=page_array columns=4				%}
 
-<h4>Master</h4>
-{% assign page_array = site.members | where:"status", "current_master"		%}
+<h4>M.S. Students</h4>
+{% assign page_array = site.members | where:"status", "current_ms"		%}
 {% include picture_grid.html pages=page_array columns=4				%}
 
 
@@ -22,6 +22,6 @@ The members of the DC Lab represent a diverse array of backgrounds, interests, a
 {% assign page_array = site.members | where:"status","alumni_phd"		%}
 {% include picture_grid.html pages=page_array columns=4				%}
 
-<h4>Master</h4>
-{% assign page_array = site.members | where:"status","alumni_master"		%}
+<h4>M.S.</h4>
+{% assign page_array = site.members | where:"status","alumni_ms"		%}
 {% include picture_grid.html pages=page_array columns=4				%}
