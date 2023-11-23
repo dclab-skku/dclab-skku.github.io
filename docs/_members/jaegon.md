@@ -8,7 +8,7 @@ previous_training:
   PhD : Sungkyunkwan University (WIP)
 joined_lab: 2016
 position: Ph.D. Candidate
-theme-areas:
+theme_areas:
   - Operating System
   - File System
 email: jaegon@gmail.com

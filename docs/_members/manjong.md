@@ -7,7 +7,7 @@ previous_training:
   MS : Sungkyunkwan University (2018)
 joined_lab: 2016
 position: Master Degree
-theme-areas:
+theme_areas:
   - Operating System
 email: manjong@naver.com
 orcid: https://orcid.org/****

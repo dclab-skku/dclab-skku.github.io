@@ -7,7 +7,7 @@ previous_training:
   MS : Sungkyunkwan University (2018)
 joined_lab: 2019
 position: Master Degree
-theme-areas:
+theme_areas:
   - Operating System
 email: keongseok@gmail.com
 orcid: https://orcid.org/****
