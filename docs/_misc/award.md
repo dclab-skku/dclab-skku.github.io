@@ -13,11 +13,12 @@ theme_areas:
 <div id="dc_page_title">
 <table class="titTable">
 <tr>
-<td class="blueLine"><i class="icon-time"></i>국제 수상실적</td>
+<td class="blueLine"><i class="icon-time"></i><b>국제 수상실적</b></td>
 <td class="grayLine"></td>
 </tr>
 </table>
-</div>g<div>
+</div>
+<div>
 <font class="dclab_papers_class">2020</font>
 </div>
 <ul class="dclab_patents">
