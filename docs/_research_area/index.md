@@ -4,18 +4,17 @@ category: research_area
 title: Research Area
 ---
 
-These resources are intended for members of the Schloss Lab and give outsiders a chance to see how we roll...
+These resources are intended for members of the DC Lab and give outsiders a chance to see how we roll...
 
 <h3>Research Domain</h3>
 * Virtualization
-* Virtualization Engine Technology
 * Operating Systems
 * Cloud Computing
 * System Security
 * File System
-* HDD/SSD Hybrid Storage
+* Storage System
 * Flash Translation Layer (FTL) Mechanisms
-* File Ssystems for NAND Flash Memory and SSDs
+* File Ssystems
 * UX Platform
 * Middleware
 * HCI Middleware
@@ -28,10 +27,9 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [Meeting schedule](schedule.html)
 
 <h3>Protocols</h3>
-* [Setting up a new project](https://github.com/SchlossLab/new_project)
-* [Overview of running jobs on Great Lakes](https://github.com/SchlossLab/Great_Lakes_SLURM)
-* [Interacting with files and R on Great Lakes](interacting_w_gl.html)
+* [Setting up a new project](https://github.com/dclab4u/new_project)
+* [Interacting with files and members](interacting_w_gl.html)
 
 <h3>Lab Life Hacks</h3>
 * Check out our [lab life hacks](lab_life_hacks.html).
-* If you have ideas to add, add an [issue](https://github.com/SchlossLab/schlosslab.github.io/issues) or even submit a pull request on GitHub!
+* If you have ideas to add, add an [issue](https://github.com/dclab4u/dclab4u.github.io/issues) or even submit a pull request on GitHub!
