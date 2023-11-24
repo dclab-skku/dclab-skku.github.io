@@ -1,5 +1,5 @@
 # Site settings
-title: The DC Lab
+title: The Distributed Computing Lab (DCLab)
 email: dclab4u@gmail.com
 description: > # This means to ignore newlines until "baseurl:"
    The website for the research group of Dr. Pat Schloss at the University
@@ -7,7 +7,7 @@ description: > # This means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dclab4u.github.io" # the base hostname & protocol for your site
 twitter_username: dclab4u
-github_username:  dclab4u
+github_username: dclab4u
 array: []
 
 # Build settings
@@ -24,7 +24,8 @@ collections:
     output: true
   research_area:
     output: true
-
+  misc:
+    output: true
 
 plugins:
   - jekyll-sitemap

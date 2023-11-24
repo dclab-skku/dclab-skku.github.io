@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: misc
+status: others
 title: Patents
 picture: /assets/img/patent.jpg
 theme_areas:
