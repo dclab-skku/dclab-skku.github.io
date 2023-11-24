@@ -29,12 +29,11 @@ I care deeply about the physical and mental health of the people that work in an
 * If your health status changes (including pregnancy), tell me in private so that we can investigate how to best accommodate your needs
 * If you see someone acting in an unsafe manner, simply remind them what they should be doing
 * If you are about to take a course of antibiotics, you should remove yourself from the laboratory until a week after finishing the course of antibiotics. There is a real risk that you could develop a *Clostridium difficile* Infection if you do not
-* Never gush to Pat about Harvard<a href="#footnote"><sup>\*</sup></a>
 
 
 ### General expectations for labbies
 
-* Effort - Your success won't be dictated by working Y hours. Your mental health and work-life balance is important. Read this blog post by Pat about [Your Personal Effort Report](http://www.academichermit.com/2018/03/12/Effort-distribution.html). Making your pie chart isn't necessarily the best option (i.e. working more hours), perhaps it would be better to adjust your effort distribution
+* Effort - Your success won't be dictated by working Y hours. Your mental health and work-life balance is important.
   * Seek to improve yourself without feeling the need to compete against your colleagues. [Others’ success will not prevent yours](https://dynamicecology.wordpress.com/2019/05/08/seagulling-ego-itching-powder-supporting-one-another-and-happiness/)
   * Be your own worst critic
   * If you are not passionate about what you are doing. Bring it up to Pat and let's find something that gets you excited
@@ -156,13 +155,7 @@ I care deeply about the physical and mental health of the people that work in an
 * Although you have finished (or paused) your formal training, I still expect you to continue to develop skills while you work in the lab
 
 
-I want you to succeed. Although I've "made it" in science, my career is still very much in development. Just as your career development is dependent on me, I am dependent on you. I love working with developing scientists and enjoy the camaraderie, fresh ideas, and enthusiasm. If you think anything is missing from this social contract, please let me know. People in the lab know that I am willing to take more personal criticism than most PIs and look forward to growing with you.
 
-
-
-Sincerely,
-
-Pat
 
 
 -----
