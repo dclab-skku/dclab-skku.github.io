@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Yongju Song
-picture: /assets/img/yongju.jpg
+picture: /assets/img/yongju_song.jpg
 previous_training:
   BS : Korea Polytechnic University (2015)
   MS : Sungkyunkwan University (2013)

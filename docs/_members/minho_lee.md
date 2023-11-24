@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Minho Lee
-picture: /assets/img/minho.jpg
+picture: /assets/img/minho_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2012)
   PhD : Sungkyunkwan University (2021)

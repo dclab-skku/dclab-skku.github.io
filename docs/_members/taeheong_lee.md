@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: TaeHeong Lee
-picture: /assets/img/taeheong.jpg
+picture: /assets/img/taeheong_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2016)
   PhD : Sungkyunkwan University (2024)

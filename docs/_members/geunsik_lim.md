@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Geunsik Lim
-picture: /assets/img/geunsik.jpg
+picture: /assets/img/geunsik_lim.jpg
 previous_training:
   BS : Ajou Univeristy (2003)
   MS : Sungkyunkwan University (2014)

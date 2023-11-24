@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Donghyun Kang
-picture: /assets/img/donghyun.jpg
+picture: /assets/img/donghyun_kang.jpg
 previous_training:
   MS : Sungkyunkwan University (2009)
   PhD : Sungkyunkwan University (2018)

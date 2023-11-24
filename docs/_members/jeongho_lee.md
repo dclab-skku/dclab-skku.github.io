@@ -1,19 +1,19 @@
 ---
 layout: labbies
-status: alumni_ms
-title: Keongseok Lee
-picture: /assets/img/keongseok.jpg
+status: current_ms
+title: Jeongho Lee
+picture: /assets/img/jeongho_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
-joined_lab: 2019
+joined_lab: 2016
 position: Master Degree
 theme_areas:
   - Operating System
-email: keongseok@gmail.com
+email: jeongho@naver.com
 orcid: https://orcid.org/****
-research_gate: keongseok
-twitter: keongseok
-github: keongseok
+research_gate: jeongho
+twitter: jeongho
+github: jeongho
 ---
 
 Coming Soon...

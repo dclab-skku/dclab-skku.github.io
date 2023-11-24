@@ -54,7 +54,9 @@ Virtualization Systems," 2015 International Conference on Ubiquitous Information
 </div>
 <ul class="dclab_patents">
 <li>
-"Can Lock-free and Combining Techniques Co-exist? A Novel Approach on Concurrent Queue," 2013 International Conference on Parallel Architectures and Compilation Techniques, 2013/10/04, Second Place ACM Student Research Competition
+"Can Lock-free and Combining Techniques Co-exist? A Novel Approach on Concurrent Queue," 
+2013 International Conference on Parallel Architectures and Compilation Techniques, 2013/10/04, 
+<b>Second Place ACM Student Research Competition</b>
 </li>
 </ul>
 <div id="dc_page_title">
