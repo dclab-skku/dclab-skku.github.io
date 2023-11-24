@@ -23,4 +23,4 @@ want to share.
 
 <br>
 
-The current lab meeting schedule is on a <a href="https://docs.google.com/spreadsheets/d/16equFGApqiclh7cZhtSeMRvSObYCBIRDWCkaFBEtA38" target="_blank">google doc</a>.
+The current lab meeting schedule is on a <a href="https://docs.google.com/" target="_blank">google doc</a>.

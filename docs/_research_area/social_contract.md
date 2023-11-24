@@ -73,7 +73,6 @@ I care deeply about the physical and mental health of the people that work in an
   * Practice talk with your colleagues
 
 * Vacation - It is frequently helpful to step away from the lab and reset. I will not police the number of days of vacation you take each year, I will depend on you to keep track of your needs and available vacation days
-  * Eligible for [22 days of paid vacation per year](https://hr.umich.edu/working-u-m/my-employment/faculty-human-resources-services/benefits-postdoctoral-research-fellows) in addition to holidays and season days
   * Please let me know in advance, I'd rather not find out that you are in some exotic destination from a colleague or via social media. I have some responsibility for your safety and that's hard to do if I don't know where you are
   * Don't tell me you are going on vacation, ask me if it's ok. Invariably, I will say, "yes". But if vacations become too frequent given your work commitments and progress, we may need to have a longer discussion
   * Please put when you will be away on the lab Google calendar
@@ -82,7 +81,6 @@ I care deeply about the physical and mental health of the people that work in an
 	* Nearly every person who has ever worked in my research group has had a personal, physical, and/or psychological issue while they worked in the lab. I *expect* that you will too. If I can, I want to help you, but I cannot read minds and bodies
   * If you are sick physically or mentally, I need to know. If you are pregnant I need to know (and congrats!)
   * We can work out leaves of absence, reduced hours, new projects, altered expectations, etc
-  * Respect and uphold all relevant University policies regarding professional conduct, including but not limited to the [Code of Academic Conduct](http://www.rackham.umich.edu/current-students/policies/academic-policies/section11), [University Policy on Nondiscrimination](https://hr.umich.edu/working-u-m/workplace-improvement/office-institutional-equity/nondiscrimination-policy-notice), [Sexual Harassment](http://spg.umich.edu/policy/201.89-0), and [Student Records and Privacy](http://ro.umich.edu/ferpa/).
 
 * Social media - Twitter, Facebook, and Slack are tools that we use in the lab to advance our research
 	* Do not call out a lab member or me on social media. Be aware of how others may view your comments and how those might reflect on the group. If you have a problem with someone in the group, resolve the issue with them personally or through a third party.
@@ -101,7 +99,6 @@ I care deeply about the physical and mental health of the people that work in an
 * I will consult the lab when new people will potentially join us
 * I will review drafts within a week of receiving them, but may tell you that more extensive time is needed to go over revisions
 * I will make room on my schedule to meet with you within 3 days of request and will make room for a regularly scheduled weekly meeting if needed
-* I will review your your [Individual Development Plan (IDP)](http://sitemaker.umich.edu/pibs.tracker/home) and provide written feedback regarding your work in the lab at least once a year. I will discuss these items with you in person
 * I will give information about career development and funding opportunities as I learn of them
 * I will be your biggest advocate - you should never fear that I will provide a negative letter of recommendation
 * I will nominate you for awards as appropriate
@@ -111,7 +108,6 @@ I care deeply about the physical and mental health of the people that work in an
 * I will invite you to work on side projects - it is up to you to say yes or no. But once you say "yes", you cannot quit
 * I will be enthusiastic about all everyone's project and will tell you if you are taking it in a direction that I am not enthusiastic about
 * Do my best to maintain a team of scientists that is demographically and scientifically diverse
-* If you think that I have broken these promises, then you have the right to call me on it. If you do not think that is likely to be productive, you should contact the departmental chairperson, Dr. Harry Mobley or [Rackham](http://www.rackham.umich.edu/current-students/help/resolution) who can set up an independent arbitration process.
 
 
 #### Undergraduate students

@@ -13,12 +13,12 @@ toc: true
 
 ```
 Host glc
-  HostName greatlakes.arc-ts.umich.edu
+  HostName greatlakes.dclab4u.skku.edu
   RemoteForward 52698 localhost:52698
   User pschloss
 
 Host glx
-  Hostname greatlakes-xfer.arc-ts.umich.edu
+  Hostname greatlakes-xfer.dclab4u.skku.edu
   User pschloss
     
 Host *
@@ -42,7 +42,7 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   * Go -> Connect to server
       
       ```
-      smb://schloss-lab.turbo.storage.umich.edu/schloss-lab/pschloss
+      smb://schloss-lab.turbo.storage.skku.edu/schloss-lab/pschloss
       ```
       
   * Navigate to desired directory
@@ -89,7 +89,7 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   - Good for interactive jobs and using RStudio
   - There is also a Remote Desktop app that is analogous to the Connect to Server approach above
   - Browser based interface to use Great Lakes
-  * Navigate to  http://greatlakes.arc-ts.umich.edu/
+  * Navigate to  http://greatlakes.dclab4u.skku.edu/
   * Interactive apps -> RStudio
   * Fill in the specs for your job...
     

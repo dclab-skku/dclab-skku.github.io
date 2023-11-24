@@ -9,15 +9,13 @@ The Schloss Lab Full Stack includes: mothur, R, knitr, git, bash, and make. In y
 
 
 ### The Curriculum
-* Getting a Great Lakes account
-  * Email <a href="mailto:hpc-support@umich.edu">Great Lakes Help</a> and tell them to add your uniqname to the Schloss Lab Great Lakes allocation and our Turbo storage allocatio. cc Pat on your email to the Great Lakes Help people (technically they're part of ARC-TS) since Pat will have to approve your request
-  * Complete and submit the [Great Lakes account form](https://arc-ts.umich.edu/login-request/)
+* Getting a GitHub account at https://www.github.com/dclab4u/
 * Become familiar with Great Lakes (be sure to check out the [life hacks](lab_life_hacks.html) page)
-  * `ssh greatlakes.arc-ts.umich.edu`
-  * `cd /nfs/turbo/schloss-lab`
+  * `ssh greatlakes.dclab4u.skku.edu`
+  * `cd /nfs/turbo/dclab4u`
   * `mkdir [your uniqname]`
   * `cd [your uniqname]`
-  * Next time you log in you can do `cd /nfs/turbo/schloss-lab/[your uniqname]` to get back to this point.
+  * Next time you log in you can do `cd /nfs/turbo/dclab4u/[your uniqname]` to get back to this point.
 * The tools we use
 	- bash: [Software Carpentry bash tutorial](http://swcarpentry.github.io/shell-novice/)
 	- mothur: [MiSeq SOP](http://www.mothur.org/wiki/MiSeq_SOP) and the [Kozich et al. (2013) paper](/assetts/pdfs/2013_kozich.pdf)
@@ -34,13 +32,9 @@ You can supplement those materials with these tutorials and cheat sheets:
 * R and knitr
 	* [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
   * [Rmarkdown materials](http://rmarkdown.rstudio.com)
-  * [Software Carpentry Workshop tutorial 1](http://swcarpentry.github.io/r-novice-inflammation/)
-  * [Software Carpentry Workshop tutorial 2](http://swcarpentry.github.io/r-novice-gapminder/)
 * git
-  * [Software Carpentry Workshop tutorial](http://swcarpentry.github.io/git-novice/)
   * [Codecademy materials](https://www.codecademy.com/learn/learn-git)
 * make
-  * [Software Carpentry Workshop tutorial](http://swcarpentry.github.io/make-novice/)
 
 
 ### Useful software
@@ -49,10 +43,8 @@ We are primarily a Mac/Linux lab and we make use of a Linux-based computer clust
 * For Windows users one of
   * [git bash](https://git-for-windows.github.io) and [PuTTY](http://www.putty.org)
   * [enable Bash on Windows 10](http://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview)
-* [mothur](https://github.com/mothur/mothur/releases)
 * [R](https://www.r-project.org)
 	* [Desktop RStudio](https://www.rstudio.com) to make interacting with R easier
-	* [RStudio via ARC-Connect](greatlakes.arc-ts.umich.edu) to connect to RStudio on Great Lakes [ On the top of the page when it loads you should see a dropdown menu for "Interactive Apps". You can select Rstudio from there; off campus access requires using the VPN ]
 * Text editor (what you use is a personal preference):
 	* [Atom](https://atom.io)
 	*	[Sublime Text](https://www.sublimetext.com)

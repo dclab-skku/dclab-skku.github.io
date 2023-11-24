@@ -83,7 +83,7 @@ Then, instead of typing `ssh -p 8674 your_username@server.address.com`, you can 
 An entry for Great Lakes looks like this:
 ```
 Host gl
-     Hostname greatlakes.arc-ts.umich.edu
+     Hostname greatlakes.dclab4u.skku.edu
      User uniqname
 ```
 

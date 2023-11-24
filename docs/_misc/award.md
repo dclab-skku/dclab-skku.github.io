@@ -56,7 +56,7 @@ theme_areas:
 <div id="dc_page_title">
 <table class="titTable" style="margin-top: 50px;">
 <tr>
-<td class="blueLine"><i class="icon-time"></i>국내 수상실적</td>
+<td class="blueLine"><i class="icon-time"></i><b>국내 수상실적</b></td>
 <td class="grayLine"></td>
 </tr>
 </table>
