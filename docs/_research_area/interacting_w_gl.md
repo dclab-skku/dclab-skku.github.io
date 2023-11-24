@@ -15,11 +15,11 @@ toc: true
 Host glc
   HostName greatlakes.dclab4u.skku.edu
   RemoteForward 52698 localhost:52698
-  User pschloss
+  User dclab4u-user
 
 Host glx
   Hostname greatlakes-xfer.dclab4u.skku.edu
-  User pschloss
+  User dclab4u-user
     
 Host *
   AddKeysToAgent yes
@@ -42,7 +42,7 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   * Go -> Connect to server
       
       ```
-      smb://schloss-lab.turbo.storage.skku.edu/schloss-lab/pschloss
+      smb://storage.dclab4u.skku.edu/
       ```
       
   * Navigate to desired directory
@@ -94,7 +94,7 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   * Fill in the specs for your job...
     
     ```
-    account: pschloss99
+    account: dclab4u-user
     Number of Hours: (however long you want it for)
     Number of Cores: 1
     Partition: standard
