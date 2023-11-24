@@ -1,5 +1,5 @@
 ---
-layout: labbies
+layout: page
 status: others
 title: Patents
 picture: /assets/img/patent.jpg
