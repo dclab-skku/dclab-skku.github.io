@@ -1,7 +1,7 @@
 ---
 layout: index_page
 category: misc
-title: Misc.
+title: Misc
 ---
 
 The members of the DC Lab generate various achievement and versatile

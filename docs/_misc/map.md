@@ -8,150 +8,118 @@ theme_areas:
  - DCLab Location
 ---
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;text-autospace: ideograph-other;word-break:keep-all'><b><span lang=EN-US style='font-size:14.0pt; color:black;background:silver'>Driving</span></b></p>
+<p style="line-height: 100%; margin-bottom: 0cm"><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="background: transparent"><font color="#000000"><font size="4" style="font-size: 14pt"><b>[Driving]</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>과천</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>-</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>봉담간
+고속화 국도</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(312)</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">방법</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">1
+- </font></span></font></font><font size="2" style="font-size: 9pt">월암</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC(</font></span></font></font><font size="2" style="font-size: 9pt">좌회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성균관대역</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,
+</font></span></font></font><font size="2" style="font-size: 9pt">지하차도를
+타지마세요</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">~)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성대</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">방법</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">2
+- </font></span></font></font><font size="2" style="font-size: 9pt">서수원</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC(</font></span></font></font><font size="2" style="font-size: 9pt">좌회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성대사거리</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">좌회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">사거리</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성대</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font color="#000000"><font size="2" style="font-size: 9pt"><b>1</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>번국도</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>경수산업도로</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>)</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">의왕</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC
+→ </font></span></font></font><font size="2" style="font-size: 9pt">지지대고개
+→ 발안</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,</font></span></font></font><font size="2" style="font-size: 9pt">성대방향</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성균관대역
+→ 성대</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>신갈</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>-</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>안산
+고속도로</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(50)</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">북수원</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC
+→ </font></span></font></font><font size="2" style="font-size: 9pt">지지대고개
+→ 발안</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,</font></span></font></font><font size="2" style="font-size: 9pt">성대방향</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성균관대역
+→ 성대</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>경부고속도로</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(1)</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">신갈분기점</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">좌회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">신갈</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">-</font></span></font></font><font size="2" style="font-size: 9pt">안산
+고속도로</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">안산방향으로
+진입</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">북수원</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC
+→ </font></span></font></font><font size="2" style="font-size: 9pt">지지대고개
+→ 발안</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,</font></span></font></font><font size="2" style="font-size: 9pt">성대방향</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)&nbsp;→
+</font></span></font></font><font size="2" style="font-size: 9pt">성균관대역
+→ 성대</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>영동</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(50),
+</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>중부</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>(35)
+</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>고속도로</b></font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt">호법분기점
+→ 신갈분기점 → 북수원 </font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">IC
+→ </font></span></font></font><font size="2" style="font-size: 9pt">지지대고개
+→ 발안</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,
+</font></span></font></font><font size="2" style="font-size: 9pt">성대방향</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">(</font></span></font></font><font size="2" style="font-size: 9pt">우회전</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">)
+→ </font></span></font></font><font size="2" style="font-size: 9pt">성균관대역
+→ 성대</font></font></span></p>
+<p style="line-height: 100%; margin-bottom: 0cm; background: #ffffff">
+<br/>
 
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-style='font-size:9.0pt;color:black'>과천<span lang=EN-US>-</span>봉담간 고속화 국도<span
-lang=EN-US>(312)</span></span></b></p>
+</p>
+<p style="line-height: 100%; margin-bottom: 0cm"><br/>
 
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>방법<span lang=EN-US>1 - </span>월암<span
-lang=EN-US>IC(</span>좌회전<span lang=EN-US>) </span>→ 성균관대역<span lang=EN-US>(</span>우회전<span
-lang=EN-US>, </span>지하차도를 타지마세요<span lang=EN-US>~) </span>→ 성대</span></p>
+</p>
+<p style="line-height: 100%; margin-bottom: 0cm"><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="background: transparent"><font color="#000000"><font size="4" style="font-size: 14pt"><b>[</b></font></font><font color="#000000"><font size="4" style="font-size: 14pt"><b>Subway</b></font></font><font color="#000000"><font size="4" style="font-size: 14pt"><b>]</b></font></font></span></span></font></font></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 0.71cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>지하철
+</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>1</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>호선
+성균관대역 하차</b></font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font color="#000000"><font size="2" style="font-size: 9pt">DCLab
+</font></span></font></font><font size="2" style="font-size: 9pt">연구실까지</font></font><font color="#000000"><font size="2" style="font-size: 9pt"><b>
+</b></font></font><font color="#000000"><font size="2" style="font-size: 9pt">도보로
+</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">5~10</font></span></font></font><font size="2" style="font-size: 9pt">분
+거리&nbsp;소요됨</font></font></span></p>
+<p style="line-height: 0.48cm; text-indent: -0.71cm; margin-left: 2.12cm; margin-bottom: 0cm; background: #ffffff">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font color="#000000"><font size="2" style="font-size: 9pt">4</font></span></font></font><font size="2" style="font-size: 9pt">호선을
+이용하시는 경우</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">,
+</font></span></font></font><font size="2" style="font-size: 9pt">금정역에서
+</font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt">1</font></span></font></font><font size="2" style="font-size: 9pt">호선
+수원행 열차로 환승가능</font></font></span></p>
+<p style="line-height: 100%; margin-bottom: 0cm"><br/>
 
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>방법<span lang=EN-US>2 - </span>서수원<span
-lang=EN-US>IC(</span>좌회전<span lang=EN-US>) </span>→ 성대사거리<span lang=EN-US>(</span>좌회전<span
-lang=EN-US>) </span>→ 사거리<span lang=EN-US>(</span>우회전<span lang=EN-US>) </span>→
-성대</span></p>
-
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-lang=EN-US style='font-size:9.0pt;color:black'>1</span></b><b><span
-style='font-size:9.0pt;color:black'>번국도<span lang=EN-US>(</span>경수산업도로<span
-lang=EN-US>)</span></span></b></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>의왕<span lang=EN-US>IC </span>→ 지지대고개 → 발안<span
-lang=EN-US>,</span>성대방향<span lang=EN-US>(</span>우회전<span lang=EN-US>) </span>→ 성균관대역
-→ 성대</span></p>
-
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-style='font-size:9.0pt;color:black'>신갈<span lang=EN-US>-</span>안산 고속도로<span
-lang=EN-US>(50)</span></span></b></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>북수원<span lang=EN-US>IC </span>→ 지지대고개 → 발안<span
-lang=EN-US>,</span>성대방향<span lang=EN-US>(</span>우회전<span lang=EN-US>) </span>→ 성균관대역
-→ 성대</span></p>
-
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-style='font-size:9.0pt;color:black'>경부고속도로<span lang=EN-US>(1)</span></span></b></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>신갈분기점<span lang=EN-US>(</span>좌회전<span
-lang=EN-US>) </span>→ 신갈<span lang=EN-US>-</span>안산 고속도로<span lang=EN-US>(</span>안산방향으로
-진입<span lang=EN-US>) </span>→ 북수원<span lang=EN-US>IC </span>→ 지지대고개 → 발안<span
-lang=EN-US>,</span>성대방향<span lang=EN-US>(</span>우회전<span lang=EN-US>)&nbsp;</span>→
-성균관대역 → 성대</span></p>
-
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-style='font-size:9.0pt;color:black'>영동<span lang=EN-US>(50), </span>중부<span
-lang=EN-US>(35) </span>고속도로</span></b></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:9.0pt;color:black'>호법분기점 → 신갈분기점 → 북수원 <span lang=EN-US>IC </span>→
-지지대고개 → 발안<span lang=EN-US>, </span>성대방향<span lang=EN-US>(</span>우회전<span
-lang=EN-US>) </span>→ 성균관대역 → 성대</span></p>
-
-<p class=MsoNormal style='line-height:normal;background:white;text-autospace:
-ideograph-other;word-break:keep-all'><span lang=EN-US style='font-size:9.0pt;
-color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><b><span lang=EN-US style='font-size:14.0pt;
-color:black;background:silver'>Subway</span></b></p>
-
-<p class=MsoListParagraph style='margin-left:20.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span
-style='font-size:9.0pt;color:black'>지하철<span lang=EN-US> 1</span>호선 성균관대역 하차</span></b></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-lang=EN-US style='font-size:9.0pt;color:black'>DCLab </span><span
-style='font-size:9.0pt;color:black'>연구실까지<b> </b>도보로<span lang=EN-US> 5~10</span>분
-거리<span lang=EN-US>&nbsp;</span>소요됨</span></p>
-
-<p class=MsoListParagraph style='margin-left:60.0pt;text-indent:-20.0pt;
-line-height:13.5pt;background:white;text-autospace:ideograph-other;word-break:
-keep-all'><span lang=EN-US style='font-size:9.0pt;font-family:Wingdings;
-color:black'>u<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-lang=EN-US style='font-size:9.0pt;color:black'>4</span><span style='font-size:
-9.0pt;color:black'>호선을 이용하시는 경우<span lang=EN-US>, </span>금정역에서<span lang=EN-US>
-1</span>호선 수원행 열차로 환승가능</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><span lang=EN-US style='font-size:9.0pt;
-color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><b><span lang=EN-US style='font-size:14.0pt;
-color:black'>Bus</span></b></p>
-
-<p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
-0cm;margin-left:40.0pt;text-indent:-20.0pt;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><span lang=EN-US style='font-size:9.0pt;
-font-family:Wingdings;color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><b><span style='font-size:9.0pt;color:black'>일반버스<span
-lang=EN-US>: 62-1, 82-2, 39</span></span></b></p>
-
-<p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
-0cm;margin-left:40.0pt;text-indent:-20.0pt;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><span lang=EN-US style='font-size:9.0pt;
-font-family:Wingdings;color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><b><span style='font-size:9.0pt;color:black'>시외버스<span
-lang=EN-US>: 7790, 7800, 3003</span></span></b></p>
-
-<p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
-0cm;margin-left:40.0pt;text-indent:-20.0pt;line-height:normal;text-autospace:
-ideograph-other;word-break:keep-all'><span lang=EN-US style='font-size:9.0pt;
-font-family:Wingdings;color:black'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><b><span style='font-size:9.0pt;color:black'>셔틀버스<span
-lang=EN-US>: </span>사당역<span lang=EN-US> 9</span>번출구 제일은행 앞</span></b></p>
-
+</p>
+<p style="line-height: 100%; margin-bottom: 0cm"><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><span style="background: transparent"><font color="#000000"><font size="4" style="font-size: 14pt"><b>[Bus]</b></font></font></span></span></font></font></p>
+<p style="line-height: 100%; text-indent: -0.71cm; margin-left: 1.41cm; margin-bottom: 0cm">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>일반버스</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>:
+62-1, 82-2, 39</b></font></font></span></span></font></font></p>
+<p style="line-height: 100%; text-indent: -0.71cm; margin-left: 1.41cm; margin-bottom: 0cm">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>시외버스</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>:
+7790, 7800, 3003</b></font></font></span></span></font></font></p>
+<p style="line-height: 100%; text-indent: -0.71cm; margin-left: 1.41cm; margin-bottom: 0cm">
+<span style="background: transparent"><font color="#000000"></font><font color="#000000">&nbsp;
+</font><font color="#000000"><font size="2" style="font-size: 9pt"><b>셔틀버스</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>:
+</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>사당역
+</b></font><font face="바탕, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><font size="2" style="font-size: 9pt"><b>9</b></font></span></font></font><font size="2" style="font-size: 9pt"><b>번출구
+제일은행 앞</b></font></font></span></p>
+<p style="line-height: 100%; margin-bottom: 0cm"><br/>

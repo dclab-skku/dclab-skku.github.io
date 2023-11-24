@@ -8,7 +8,11 @@ theme_areas:
  - Magazine
 ---
 
-<div id="content" style="max-width:1000px"><div id="gap"> <div style="overflow:hidden;WIDTH: 100%; FLOAT: left"><div style="padding:0px 0px 0px 0px !important;"><h1 style="MARGIN-RIGHT: 0px" dir="ltr"><span style="COLOR: #000000">2004</span></h1>
+<div id="content" style="max-width:1000px">
+<div id="gap"> 
+<div style="overflow:hidden;WIDTH: 100%; FLOAT: left">
+<div style="padding:0px 0px 0px 0px !important;">
+<h1 style="MARGIN-RIGHT: 0px" dir="ltr"><span style="COLOR: #000000">2004</span></h1>
 <p></p>
 <ul>
 <li><span style="COLOR: #000000">프로그래밍 언어: 분석적 접근 방법, 엄영익 외 6인, 한티미디어, (ISBN:89-95324-33-3)&nbsp;</span></li></ul>
@@ -33,6 +37,6 @@ theme_areas:
 <ul>
 <li><span style="COLOR: #000000" class="Apple-style-span">C++ 프로그래밍, 황대준, 엄영익, 사이텍미디어</span></li></ul>
 <ul>
-<li><font class="Apple-style-span" color="#636363"><span style="COLOR: #000000">컴퓨터 운영체제론, 엄영익, 정태명, 생능출판사</span></font></li></ul></div></div></div></div> </div></div>
+<li><font class="Apple-style-span" color="#636363"><span style="COLOR: #000000">컴퓨터 운영체제론, 엄영익, 정태명, 생능출판사</span></font></li></ul>
+</div></div></div></div> </div></div>
 
-</div>

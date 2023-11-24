@@ -60,9 +60,8 @@ theme_areas:
 <td class="grayLine"></td>
 </tr>
 </table>
-</div>g<div>
-<font class="dclab_papers_class">2022</font>
 </div>
+<font class="dclab_papers_class">2022</font>
 <ul class="dclab_patents">
 <li class="dclab_patents_su">
 "BTRFS 파일 시스템에서 Zone Append 커맨드로 인한 파일 단편화 심화 현상 분석," 2022 한국소프트웨어종합학술대회, 2022/12/21, 우수논문상
