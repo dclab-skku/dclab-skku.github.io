@@ -23,7 +23,8 @@ theme_areas:
 </div>
 <ul class="dclab_patents">
 <li>
-"Transaction-aware Data Cluster Allocation Scheme for Qcow2-based Virtual Disks”, 2020 IEEE International Conference on Big Data and Smart Computing, 2020/02/21, Third Place Best Paper
+"Transaction-aware Data Cluster Allocation Scheme for Qcow2-based Virtual
+Disks”, 2020 IEEE International Conference on Big Data and Smart Computing, 2020/02/21, <b>Third Place Best Paper</b>
 </li>
 </ul>
 <div>
@@ -31,7 +32,8 @@ theme_areas:
 </div>
 <ul class="dclab_patents">
 <li>
-"FSLRU: A Page Cache Algorithm for Mobile Devices with Hybrid Memory Architecture”, 2018 IEEE Transactions on Consumer Electronics Society Chester Sall Awards, 2017/10/17, Second Place Transactions Award
+"FSLRU: A Page Cache Algorithm for Mobile Devices with Hybrid Memory
+Architecture”, 2018 IEEE Transactions on Consumer Electronics Society Chester Sall Awards, 2017/10/17, <b>Second Place Transactions Award</b>
 </li>
 </ul>
 <div>
@@ -39,10 +41,12 @@ theme_areas:
 </div>
 <ul class="dclab_patents">
 <li>
-"Virtual Memory Partitioning for Enhancing Application Performance in Mobile Platforms," 2016 IEEE Consumer Electronics Society Chester Sall Awards, 2015/12/04, First Place Best Paper
+"Virtual Memory Partitioning for Enhancing Application Performance in Mobile
+Platforms," 2016 IEEE Consumer Electronics Society Chester Sall Awards, 2015/12/04, <b>First Place Best Paper</b>
 </li>
 <li>
-"Power-efficient and High-performance Block I/O Framework for Mobile Virtualization Systems," 2015 International Conference on Ubiquitous Information Management and Communication, 2015/01/09 , Best Paper
+"Power-efficient and High-performance Block I/O Framework for Mobile
+Virtualization Systems," 2015 International Conference on Ubiquitous Information Management and Communication, 2015/01/09 , <b>Best Paper</b>
 </li>
 </ul>
 <div>

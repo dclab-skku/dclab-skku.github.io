@@ -14,7 +14,7 @@ These resources are intended for members of the DC Lab and give outsiders a chan
 * File System
 * Storage System
 * Flash Translation Layer (FTL) Mechanisms
-* File Ssystems
+* File Systems
 * UX Platform
 * Middleware
 * HCI Middleware
