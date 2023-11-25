@@ -16,4 +16,4 @@ But first things first, let's get you through your first week in the lab. Here's
 	* The lab will buy you a laptop of your choice for working in the lab.
 Most people in the group use MacBook Pros or [System 76 linux](https://system76.com) computers. 
 Because we do a lot of work at the command line, it is often not super easy to use a Windows-based computer. 
-* Create a [GitHub](http://www.github.com) account and join the [DCLab group](http://www.github.com/dclab4u)
+* Create a [GitHub](http://www.github.com) account and join the [DCLab group](http://www.github.com/dclab-skku)

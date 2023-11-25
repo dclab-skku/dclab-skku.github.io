@@ -27,9 +27,9 @@ These resources are intended for members of the DC Lab and give outsiders a chan
 * [Meeting schedule](schedule.html)
 
 <h3>Protocols</h3>
-* [Setting up a new project](https://github.com/dclab4u/new_project)
+* [Setting up a new project](https://github.com/dclab-skku/new_project)
 * [Interacting with files and members](interacting_w_gl.html)
 
 <h3>Lab Life Hacks</h3>
 * Check out our [lab life hacks](lab_life_hacks.html).
-* If you have ideas to add, add an [issue](https://github.com/dclab4u/dclab4u.github.io/issues) or even submit a pull request on GitHub!
+* If you have ideas to add, add an [issue](https://github.com/dclab-skku/dclab-skku.github.io/issues) or even submit a pull request on GitHub!

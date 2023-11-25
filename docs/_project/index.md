@@ -6,7 +6,7 @@ title: Projects
 
 We develop software tools to help us analyze multi-omics data and make sense of
 the microbial world. All of our code is open source and available on
-[Github](https://github.com/dclab4u). Click on the badges below to learn more
+[Github](https://github.com/dclab-skku). Click on the badges below to learn more
 about the software we develop.
 <br>
 <hr>

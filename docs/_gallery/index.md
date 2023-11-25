@@ -31,8 +31,8 @@ We are collecting photos of our memories of our time together here. This is wher
 <hr>
 
 ### Jan-11-2016, VNODE T-CE 저널 논문 IEEE CE Chester Sall Award 1위 수상 
-<a href="https://github.com/dclab4u/dclab4u.github.io/assets/82404/e0922df2-3474-49c5-92fc-3ee229a59767" target=_blank>
-<img src="https://github.com/dclab4u/dclab4u.github.io/assets/82404/e0922df2-3474-49c5-92fc-3ee229a59767" height="200" />
+<a href="https://github.com/dclab-skku/dclab-skku.github.io/assets/82404/e0922df2-3474-49c5-92fc-3ee229a59767" target=_blank>
+<img src="https://github.com/dclab-skku/dclab-skku.github.io/assets/82404/e0922df2-3474-49c5-92fc-3ee229a59767" height="200" />
 </a>
 <br>
 2017년도 추계 차세정 워크샵을 위하여 모든 학우들이 설악산 정산에

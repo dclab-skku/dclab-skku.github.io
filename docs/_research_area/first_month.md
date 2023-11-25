@@ -9,13 +9,13 @@ The Schloss Lab Full Stack includes: mothur, R, knitr, git, bash, and make. In y
 
 
 ### The Curriculum
-* Getting a GitHub account at https://www.github.com/dclab4u/
+* Getting a GitHub account at https://www.github.com/dclab-skku/
 * Become familiar with Great Lakes (be sure to check out the [life hacks](lab_life_hacks.html) page)
-  * `ssh greatlakes.dclab4u.skku.edu`
-  * `cd /nfs/turbo/dclab4u`
+  * `ssh greatlakes.dclab-skku.skku.edu`
+  * `cd /nfs/turbo/dclab-skku`
   * `mkdir [your uniqname]`
   * `cd [your uniqname]`
-  * Next time you log in you can do `cd /nfs/turbo/dclab4u/[your uniqname]` to get back to this point.
+  * Next time you log in you can do `cd /nfs/turbo/dclab-skku/[your uniqname]` to get back to this point.
 * The tools we use
 	- bash: [Software Carpentry bash tutorial](http://swcarpentry.github.io/shell-novice/)
 	- mothur: [MiSeq SOP](http://www.mothur.org/wiki/MiSeq_SOP) and the [Kozich et al. (2013) paper](/assetts/pdfs/2013_kozich.pdf)

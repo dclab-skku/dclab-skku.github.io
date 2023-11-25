@@ -6,7 +6,7 @@ title: Members
 
 The members of the DC Lab represent a diverse array of backgrounds, interests, and goals.
 If you would like to add or edit your profile information, 
-please submit a Pull Request (PR) from the GitHub address ([link](https://github.com/dclab4u/dclab4u.github.io)) on this homepage. 
+please submit a Pull Request (PR) from the GitHub address ([link](https://github.com/dclab-skku/dclab-skku.github.io)) on this homepage. 
 We will then actively consider your PR after review. 
 
 <h4>Professor</h4>

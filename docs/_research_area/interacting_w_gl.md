@@ -13,13 +13,13 @@ toc: true
 
 ```
 Host glc
-  HostName greatlakes.dclab4u.skku.edu
+  HostName greatlakes.dclab-skku.skku.edu
   RemoteForward 52698 localhost:52698
-  User dclab4u-user
+  User dclab-skku-user
 
 Host glx
-  Hostname greatlakes-xfer.dclab4u.skku.edu
-  User dclab4u-user
+  Hostname greatlakes-xfer.dclab-skku.skku.edu
+  User dclab-skku-user
     
 Host *
   AddKeysToAgent yes
@@ -42,7 +42,7 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   * Go -> Connect to server
       
       ```
-      smb://storage.dclab4u.skku.edu/
+      smb://storage.dclab-skku.skku.edu/
       ```
       
   * Navigate to desired directory
@@ -89,12 +89,12 @@ The `glx` is useful for logging into Great Lakes if you are transferring files i
   - Good for interactive jobs and using RStudio
   - There is also a Remote Desktop app that is analogous to the Connect to Server approach above
   - Browser based interface to use Great Lakes
-  * Navigate to  http://greatlakes.dclab4u.skku.edu/
+  * Navigate to  http://greatlakes.dclab-skku.skku.edu/
   * Interactive apps -> RStudio
   * Fill in the specs for your job...
     
     ```
-    account: dclab4u-user
+    account: dclab-skku-user
     Number of Hours: (however long you want it for)
     Number of Cores: 1
     Partition: standard
