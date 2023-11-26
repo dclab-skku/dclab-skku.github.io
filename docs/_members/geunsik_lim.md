@@ -4,15 +4,14 @@ status: alumni_phd
 title: Geunsik Lim
 picture: /assets/img/geunsik_lim.jpg
 previous_training:
-  BS : Ajou Univeristy (2003)
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2023)
-joined_lab: 2012
-position: Principal S/W Researcher & Developer at Samsung Electronics
+position: S/W Researcher & Developer at Samsung Electronics
 theme_areas:
   - Embedded Systems
   - Operating System
   - Mobile Platform
+  - System Optimization
 email: leemgs@gmail.com
 orcid: https://orcid.org/0000-0003-1845-7132
 research_gate: leemgs
