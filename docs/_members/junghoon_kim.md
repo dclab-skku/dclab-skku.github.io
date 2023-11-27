@@ -1,7 +1,7 @@
 ---
 layout: labbies
 status: alumni_phd
-title: Junghoon Jung
+title: Junghoon Kim
 picture: /assets/img/junghoon_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2016)
