@@ -15,6 +15,7 @@ theme_areas:
   - System Optimization
 email: leemgs@gmail.com
 orcid: https://orcid.org/0000-0003-1845-7132
+linkedin: leemgs
 research_gate: leemgs
 twitter: leemgs
 github: leemgs
