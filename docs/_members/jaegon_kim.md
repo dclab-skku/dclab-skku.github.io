@@ -7,6 +7,7 @@ previous_training:
   MS : Sungkyunkwan University (2015)
 joined_lab: 2016
 position: Software Developt at Samsung Electronics
+joined_lab: 2016
 theme_areas:
   - Operating System
   - Cloud Computing
