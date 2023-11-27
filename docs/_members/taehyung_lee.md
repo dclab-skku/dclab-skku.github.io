@@ -15,8 +15,8 @@ theme_areas:
   - Virtualization
 email: taehyung.tlee@gmail.com
 orcid: 0000-0002-6935-9981
-research_gate: -
-twitter: -
+research_gate: *
+twitter: *
 github: taehyung-lee
 ---
 
