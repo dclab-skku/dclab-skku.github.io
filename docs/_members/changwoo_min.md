@@ -6,7 +6,7 @@ picture: /assets/img/changwoo_min.jpg
 previous_training:
   MS : SoongSil University (2008)
   PhD : Sungkyunkwan University (2014)
-joined_lab: 2012
+joined_lab: 2002
 position: Computer scientist and software developer at Igalia
 theme_areas:
   - Computer Systems
