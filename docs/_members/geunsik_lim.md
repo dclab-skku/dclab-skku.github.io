@@ -7,6 +7,7 @@ previous_training:
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2023)
 position: S/W Researcher & Developer at Samsung Electronics
+joined_lab: 2012
 theme_areas:
   - Embedded Systems
   - Operating System
