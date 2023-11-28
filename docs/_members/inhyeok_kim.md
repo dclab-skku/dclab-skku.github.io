@@ -19,4 +19,4 @@ linkedin: inhyeok-kim-7620a0b0
 github: inhyeok_kim
 ---
 
-Inhyeok Kim received his B.S. and M.S. degrees in computer engineering from the Department of Electrical and Computer Engineering, Sungkyunkwan University, Suwon, Rep. of Korea, in 2006 and 2010, respectively, and since 2010. he has been a Ph.D. candidate with the Department of Electrical and Computer Engineering, Sungkyunkwan University. His research interests include system software and UI/UX platforms. 
+Inhyeok Kim (김인혁) received his B.S. and M.S. degrees in computer engineering from the Department of Electrical and Computer Engineering, Sungkyunkwan University, Suwon, Rep. of Korea, in 2006 and 2010, respectively, and since 2010. he has been a Ph.D. candidate with the Department of Electrical and Computer Engineering, Sungkyunkwan University. His research interests include system software and UI/UX platforms. 
