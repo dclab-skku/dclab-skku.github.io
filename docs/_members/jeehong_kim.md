@@ -1,19 +1,19 @@
 ---
 layout: labbies
 status: alumni_phd
-title: Dongwoo Lee
-picture: /assets/img/Jeehong_kim.jpg
+title: Jeehong Kim
+picture: /assets/img/jeehong_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2015)
 position: Software Developer at Samsung Electronics
 joined_lab: 2015
 theme_areas:
-  - Embedded System
+  - Security
   - Compiler
-  - File System
-email: ezjjilong@gmail.com
-linkedin: Jeehong_kim
-github: Jeehong_kim
+  - Operating System
+email: jhez.kim@samsung.com
+linkedin: jeehong_kim
+github: jeehong_kim
 ---
 
 He is currently a software developer who works at Samsung Electronics
