@@ -16,7 +16,7 @@ linkedin: yonghyeog_kang
 github: yonghyeog_kang
 ---
 
-He is currently a professor who works at Geokdong University
+He (강용혁) is currently a professor who works at Geokdong University
 and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
  
