@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Seongsang Seon
-picture: /assets/img/seongsang_seo.jpg
+picture: /assets/img/seongsang_seon.jpg
 previous_training:
   BS : Sungkyunkwan University (2006)
   PhD : Sungkyunkwan University (2010)
@@ -12,8 +12,8 @@ theme_areas:
   - CORBA
   - P2P
   - XML
-email: seongsang_seo@gmail.com
-github: seongsang_seo
+email: seongsang_seon@gmail.com
+github: seongsang_seon
 ---
 
 He is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
