@@ -16,7 +16,7 @@ linkedin: hyunho_kim
 github: hyunho_kim
 ---
 
-He is currently a professor who works at Meongji University 
+He (김현호) is currently a professor who works at Meongji University 
 and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
  
