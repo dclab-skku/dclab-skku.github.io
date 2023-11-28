@@ -4,18 +4,17 @@ status: current_phd
 title: Junghan Kim
 picture: /assets/img/junghan_kim.jpg
 previous_training:
-  BS : Sungkyunkwan University (2007)
+  BS : Sungkyunkwan University (2010)
   PhD : Sungkyunkwan University
 joined_lab: 2014
 position: Ph.D. Candidate
 theme_areas:
   - Operating System
   - Memory Subsystem
-  - I/O Subsystem
+  - Mobile Platform
   - Virtualization
 email: junghan@gmail.com
 github: junghan
 ---
 
-He received the B.S. degree in software from Sungkyunkwan University, South
-Korea, in 2014, where he is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
+Junghan Kim (김정한) received his B.S. degree in Computer Software from Sejong University, Korea in 2008 and his M.S. degree in Computer Science from Sungkyunkwan University in 2010. He is currently a Ph.D. candidate in the Department of Information and Computer Science at Sungkyunkwan University. His research interests include embedded systems, mobile platform and operating system.
