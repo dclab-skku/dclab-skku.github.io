@@ -2,20 +2,19 @@
 layout: labbies
 status: current_phd
 title: Hyungkook Jeon
-picture: /assets/img/dclab_photo.jpg
+picture: /assets/img/hyungkook_jeon.jpg
 previous_training:
-  BS : Sungkyunkwan University (2011)
+  MS : Sungkyunkwan University (2002)
   PhD : Sungkyunkwan University
-joined_lab: 2011
+joined_lab: 2002
 position: Ph.D. Candidate
 theme_areas:
-  - Operating System
-  - Memory Subsystem
-  - I/O Subsystem
-  - Virtualization
+  - Embedded System
+  - Cyber Physical Ssystem (CPS)
+  - Multimedia System
+  - Communication Middleware
 email: hkjun@etri.re.kr
 github: hkjun
 ---
 
-He (전형국) received the B.S. degree in software from Sungkyunkwan University, South
-Korea, in 2008, where he is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
+He (전형국) received his BS degree in computer science and engineering and his MS degree in electrical and computer engineering from Sungkyunkwan University, Suwon, Rep. of Korea, in 1999 and 2001, respectively. Since 2001, he has been a senior researcher in the Cyber-Physical Systems (CPS) research team, Electronics and Telecommunic- ations Research Institute, Daejeon, Rep. of Korea. His research interests include CPS, embedded systems, communication middleware, and multimedia systems. He is currently working as a software researcher at ETRI.
