@@ -17,4 +17,4 @@ email: taehyung.tlee@gmail.com
 github: taehyung-lee
 ---
 
-Taehyung Lee received the B.S. degree in software from Sungkyunkwan University, South Korea, in 2017, where he is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
+Taehyung Lee (이태형) received the B.S. degree in software from Sungkyunkwan University, South Korea, in 2017, where he is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
