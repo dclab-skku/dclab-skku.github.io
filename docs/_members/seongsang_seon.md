@@ -16,4 +16,4 @@ email: seongsang_seon@gmail.com
 github: seongsang_seon
 ---
 
-He is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
+He (선승상) is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
