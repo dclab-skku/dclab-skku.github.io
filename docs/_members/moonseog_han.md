@@ -15,7 +15,7 @@ linkedin: moonseog_han
 github: moonseog_han
 ---
 
-He is currently a professor who works at Gangreong Wonju University
+He (한문석) is currently a professor who works at Gangreong Wonju University
 and actively is interested in cutting-edge technologies in the distributed
 system fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
