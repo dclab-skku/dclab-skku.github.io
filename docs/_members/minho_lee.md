@@ -11,7 +11,7 @@ position:  S/W Developer at Samsung Electronics
 theme_areas:
   - Operating System
 email: minho@gmail.com
-orcid: https://orcid.org/****
+orcid: 0000-0003-0677-4480
 research_gate: minho
 twitter: minho
 github: minho
