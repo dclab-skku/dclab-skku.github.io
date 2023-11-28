@@ -18,7 +18,7 @@ linkedin: dongwoo_lee
 github: dongwoo_lee
 ---
 
-Dongwoo Lee is currently a software developer who works at Samsung Research
+Dongwoo Lee (이동우) is currently a software developer who works at Samsung Research
 and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
  
