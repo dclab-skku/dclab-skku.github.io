@@ -21,7 +21,7 @@ twitter: multics69
 github: multics69
 ---
 
-I am a computer scientist, software developer, and lifelong open-source enthusiast.
+I (민창우) am a computer scientist, software developer, and lifelong open-source enthusiast.
 
 My particular fascination lies in the interplay between hardware, operating systems, and compilers at a low level. This curiosity propelled me to pursue a PhD in Computer Science, focusing my research on the design of operating systems, software security, computer architecture, and their intricate interactions.
 
