@@ -20,4 +20,4 @@ twitter: jaegon
 github: jaegon
 ---
 
-He graduated from Sungkyunkwan University's Distributed Computing Lab with a master's degree and is currently pursuing a PhD. He is currently conducting research on virtualization, cloud, and 5G networks at Samsung Electronics Networks. 
+He (김재곤) graduated from Sungkyunkwan University's Distributed Computing Lab with a master's degree and is currently pursuing a PhD. He is currently conducting research on virtualization, cloud, and 5G networks at Samsung Electronics Networks. 
