@@ -18,7 +18,7 @@ linkedin: dongwoo_lee
 github: dongwoo_lee
 ---
 
-Junghoon Kim is currently a passionate investor who works at SDB Investment and actively invests in cutting-edge technologies in the IT and Bio fields. Prior to joining SDB Investment, he worked in the IT investment division of InterVest.
-Before entering the venture capital industry, he worked as a software engineer at Samsung Research and developed a Linux-based mobile platform (Tizen). He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
+Dongwoo Lee is currently a software developer who works at Samsung Research
+and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
  
