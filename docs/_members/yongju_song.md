@@ -20,6 +20,6 @@ twitter: yongju
 github: yongju
 ---
 
-I am currently a Postdoctoral researcher at Sungkyunkwan University.
+I (송용주) am currently a Postdoctoral researcher at Sungkyunkwan University.
 My research interests span the fields of Storage Systems, File Systems, and Operating Systems.
 
