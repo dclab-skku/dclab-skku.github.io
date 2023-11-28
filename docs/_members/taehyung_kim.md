@@ -16,6 +16,6 @@ email: taehyung_kim@gmail.com
 github: taehyung_kim
 ---
 
-He received the B.S. degree in software from Sungkyunkwan University, South
+He (김태형) received the B.S. degree in software from Sungkyunkwan University, South
 Korea, in 2008, where he is currently pursuing the Ph.D. degree with the
 Department of Computer Science and Engineering. His research interests include virtualization, security, and UX/UI platforms. 
