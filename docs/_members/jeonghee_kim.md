@@ -1,20 +1,20 @@
 ---
 layout: labbies
 status: current_phd
-title: Taehyung Lee
-picture: /assets/img/taehyung_lee.jpg
+title: Jeonghee Kim
+picture: /assets/img/jeonghee_kim.jpg
 previous_training:
-  BS : Sungkyunkwan University (2017)
-  PhD : Sungkyunkwan University (2024)
-joined_lab: 2016
+  MS : Sungkyunkwan University (2005)
+  PhD : Sungkyunkwan University (2009)
+joined_lab: 2009
 position: Ph.D. Candidate
 theme_areas:
-  - Operating System
-  - Memory Subsystem
+  - Mobile Computing
+  - Distributed System
   - I/O Subsystem
-  - Virtualization
-email: taehyung.tlee@gmail.com
-github: taehyung-lee
+  - Networks
+email: jeonghee_kim@gmail.com
+github: jeonghee_kim
 ---
 
-Taehyung Lee received the B.S. degree in software from Sungkyunkwan University, South Korea, in 2017, where he is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include virtualization, memory systems, and file and storage systems. 
+She is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering. His research interests include distributed system, memory systems, and networks. 
