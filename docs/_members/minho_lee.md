@@ -10,7 +10,11 @@ joined_lab: 2012
 position:  S/W Developer at Samsung Electronics
 theme_areas:
   - Operating System
-email: minho@gmail.com
+  - Storage Systems
+  - File Systems
+  - Virtualization
+  - System Software
+email: zeteman2ya@gmail.com
 orcid: 0000-0003-0677-4480
 research_gate: minho
 twitter: minho
