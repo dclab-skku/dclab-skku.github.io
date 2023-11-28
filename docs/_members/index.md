@@ -9,8 +9,7 @@ If you would like to add or edit your profile information,
 please submit a Pull Request (PR) from the GitHub address on this homepage. 
 We will then actively consider your PR after reviewing it.
 
-Let's assume that your name is "Gildong Hong". Here is a case study to submit your PR. 
-Please upload "gildong_hong.jpg" file with the 480×480 size: [https://github.com/dclab-skku/dclab-skku.github.io/pull/23](https://github.com/dclab-skku/dclab-skku.github.io/pull/23)
+Here is a case study to submit your PR. Let's assume that your name is "Younghyun Joo". Please upload a "younghyun_joo.jpg" file with the 480×480 size (e.g., $ convert -resize 480×480! a.jpg a.jpg ; file a.jpg) : [https://github.com/dclab-skku/dclab-skku.github.io/pull/23](https://github.com/dclab-skku/dclab-skku.github.io/pull/23)
 
 
 <h4>Professor</h4>
