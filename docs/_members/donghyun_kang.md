@@ -4,19 +4,18 @@ status: alumni_phd
 title: Donghyun Kang
 picture: /assets/img/donghyun_kang.jpg
 previous_training:
-  MS : Sungkyunkwan University (2009)
+  MS : Sungkyunkwan University (2008)
   PhD : Sungkyunkwan University (2018)
-joined_lab: 2009
+joined_lab: 2008
 position: Professor at Gachon University
 theme_areas:
-  - Operating System
-  - Storage System
-  - File System
-email: donghyun@gmail.com
-orcid: https://orcid.org/****
-research_gate: donghyun
-twitter: donghyun
-github: donghyun
+  - Operating Systems
+  - File and Storage Systems
+  - Systems for Cloud Computing
+  - AI for Systems / Systems for AI
+email: dhkangd@gmail.com
+orcid: https://orcid.org/0000-0003-4362-9944
+github: https://dhkangd.github.io
 ---
 
 I (강동현) am currently interested in the broad area of system software including operating systems, file and storage systems (for NAND flash memory and byte-addressable NVRAM), and artificial intelligence (AI) systems. The main research goal is to bridge the gap between applications and hardware effectively by improving the design and implementation of computer systems in terms of performance, cost, and reliability.
