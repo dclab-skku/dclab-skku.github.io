@@ -6,8 +6,8 @@ description: > # This means to ignore newlines until "baseurl:"
    of SKK in the Department of Electrical & Computer Engineering
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dclab-skku.github.io" # the base hostname & protocol for your site
-twitter_username: dclab4u
-github_username:  dclab4u
+twitter_username: dclab-skku
+github_username:  dclab-skku/dclab-skku.github.io
 array: []
 
 # Build settings
