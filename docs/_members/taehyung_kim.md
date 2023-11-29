@@ -4,9 +4,9 @@ status: current_phd
 title: Taehyung Kim
 picture: /assets/img/taehyung_kim.jpg
 previous_training:
+  MS : Sungkyunkwan University (2012)
   BS : Sungkyunkwan University (2008)
-  PhD : Sungkyunkwan University (2013)
-position_joined: 2013
+position_joined: 2012
 position: Ph.D. Candidate
 theme_areas:
   - Operating System
