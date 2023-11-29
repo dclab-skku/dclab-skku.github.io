@@ -5,7 +5,6 @@ title: Hyungkook Jeon
 picture: /assets/img/hyungkook_jeon.jpg
 previous_training:
   MS : Sungkyunkwan University (2002)
-  PhD : Sungkyunkwan University
 position_joined: 2002
 position: Ph.D. Candidate
 theme_areas:
