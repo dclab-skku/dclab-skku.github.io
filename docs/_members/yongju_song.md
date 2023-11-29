@@ -7,7 +7,7 @@ previous_training:
   BS : Korea Polytechnic University (2015)
   MS : Sungkyunkwan University (2013)
   PhD : Sungkyunkwan University (2022)
-joined_lab: 2015
+position_joined: 2015
 position: S/W Developer at Samsung Electronics
 theme_areas:
   - File System

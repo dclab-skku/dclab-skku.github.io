@@ -6,7 +6,7 @@ picture: /assets/img/gusu_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2008)
 position: Software Developer at ChaHoo
-joined_lab: 2016
+position_joined: 2016
 theme_areas:
   - Mobile Computing
   - XML

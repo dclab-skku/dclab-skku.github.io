@@ -6,7 +6,7 @@ picture: /assets/img/jeehong_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2015)
 position: Software Developer at Samsung Electronics
-joined_lab: 2015
+position_joined: 2015
 theme_areas:
   - Security
   - Compiler

@@ -6,7 +6,7 @@ picture: /assets/img/yonghyeog_kang.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2002)
 position: Professor at Geokdong University
-joined_lab: 2002
+position_joined: 2002
 theme_areas:
   - Distributed System
   - Distirubted File System

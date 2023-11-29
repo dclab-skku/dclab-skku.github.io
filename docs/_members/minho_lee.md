@@ -7,7 +7,7 @@ previous_training:
   BS : Sungkyunkwan University (2013)
   MS : Sungkyunkwan University (2015)
   PhD : Sungkyunkwan University (2021)
-joined_lab: 2021
+position_joined: 2021
 position: Senior S/W Developer at Samsung Electronics
 theme_areas:
   - Operating System

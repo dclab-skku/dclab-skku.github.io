@@ -6,7 +6,7 @@ picture: /assets/img/taehyung_kim.jpg
 previous_training:
   BS : Sungkyunkwan University (2008)
   PhD : Sungkyunkwan University (2013)
-joined_lab: 2013
+position_joined: 2013
 position: Ph.D. Candidate
 theme_areas:
   - Operating System

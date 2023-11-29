@@ -6,7 +6,7 @@ picture: /assets/img/jeonghee_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2005)
   PhD : Sungkyunkwan University (2009)
-joined_lab: 2009
+position_joined: 2009
 position: Ph.D. Candidate
 theme_areas:
   - Mobile Computing

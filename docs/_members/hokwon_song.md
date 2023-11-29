@@ -5,7 +5,7 @@ title: Hokwon Song
 picture: /assets/img/hokwon_song.jpg
 previous_training:
   MS : Sungkyunkwan University (2013)
-joined_lab: 2005
+position_joined: 2005
 position: Principal Software engineer at Samsung Electronics
 theme_areas:
   - Operating System

@@ -6,7 +6,7 @@ picture: /assets/img/hyunsu_jang.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2010)
 position: Software Developer
-joined_lab: 2010
+position_joined: 2010
 theme_areas:
   - Mobile Agent
   - HCI

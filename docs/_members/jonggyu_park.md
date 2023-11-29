@@ -6,7 +6,7 @@ picture: /assets/img/jonggyu_park.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2019)
-joined_lab: 2014
+position_joined: 2014
 position: Postdoctoral Researcher at University of Washington
 theme_areas:
   - Operating System

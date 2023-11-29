@@ -6,7 +6,7 @@ picture: /assets/img/moonjeong_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2004)
 position: Professor at Youngdong University
-joined_lab: 2004
+position_joined: 2004
 theme_areas:
   - Mobile Computing
   - Network

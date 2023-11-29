@@ -6,7 +6,7 @@ picture: /assets/img/sangyun_park.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2005)
 position: Professor at Daelim University
-joined_lab: 2005
+position_joined: 2005
 theme_areas:
   - Mobile Security
   - CORBA

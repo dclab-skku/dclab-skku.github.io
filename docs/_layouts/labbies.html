@@ -65,9 +65,9 @@ layout: default
 
 				<p>
 					{% if page.left_lab == nil %}
-					{{ page.position }} since {{ page.joined_lab }}
+					{{ page.position }} since {{ page.position_joined }}
 					{%	else					%}
-					{{ page.position }} from {{ page.joined_lab }} to {{ page.left_lab }}
+					{{ page.position }} from {{ page.position_joined }} to {{ page.left_lab }}
 					{% endif 					%}
 				</p>
 

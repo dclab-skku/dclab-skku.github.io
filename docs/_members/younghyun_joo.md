@@ -5,7 +5,7 @@ title: Younghyun Joo
 picture: /assets/img/younghyun_joo.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
-joined_lab: 2014
+position_joined: 2014
 position: Software Engineer at Samsung Electronics
 theme_areas:
   - CPU Scheduling

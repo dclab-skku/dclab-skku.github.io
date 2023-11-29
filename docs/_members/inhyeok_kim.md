@@ -8,7 +8,7 @@ previous_training:
   MS: Mobile Systems Engineering, Sungkyunkwan University (2009)
   BS: Computer Engineering, Sungkyunkwan University (2007)   
 position: 
-joined_lab: 2022
+position_joined: 2022
 theme_areas:
   - Virtualization
   - Operating System

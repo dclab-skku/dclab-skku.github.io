@@ -6,7 +6,7 @@ picture: /assets/img/sunwook_bae.jpg
 previous_training:
   MS : Sungkyunkwan University (2013)
   BS : Korea University (2005)
-joined_lab: 2005
+position_joined: 2005
 position: Principal engineer & Software Architect at Samsung Electronics
 theme_areas:
   - Operating System

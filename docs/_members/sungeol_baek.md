@@ -6,7 +6,7 @@ picture: /assets/img/sungeol_baek.jpg
 previous_training:
   MS : Sungkyunkwan University (2015)
   PhD : Sungkyunkwan University (2019)
-joined_lab: 2011
+position_joined: 2011
 position: Principal Engineer an Hyundai Motor
 theme_areas:
   - Distributed System

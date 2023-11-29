@@ -6,7 +6,7 @@ picture: /assets/img/hyunjin_cho.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2011)
 position: Software Developer at Samsung Electronics
-joined_lab: 2011
+position_joined: 2011
 theme_areas:
   - Operating System
   - Storage System

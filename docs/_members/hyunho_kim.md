@@ -6,7 +6,7 @@ picture: /assets/img/hyunho_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2007)
 position: Software Developer at Meongjin University
-joined_lab: 2007
+position_joined: 2007
 theme_areas:
   - Mobile Computing
   - Sensor Network

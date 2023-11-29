@@ -5,7 +5,7 @@ title: Manjong Lee
 picture: /assets/img/manjong_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
-joined_lab: 2016
+position_joined: 2016
 position: Master Degree
 theme_areas:
   - Operating System

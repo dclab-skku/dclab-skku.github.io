@@ -6,7 +6,7 @@ picture: /assets/img/donghyun_kang.jpg
 previous_training:
   MS : Sungkyunkwan University (2008)
   PhD : Sungkyunkwan University (2018)
-joined_lab: 2008
+position_joined: 2008
 position: Professor at Gachon University
 theme_areas:
   - Operating Systems

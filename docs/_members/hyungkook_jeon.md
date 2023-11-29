@@ -6,7 +6,7 @@ picture: /assets/img/hyungkook_jeon.jpg
 previous_training:
   MS : Sungkyunkwan University (2002)
   PhD : Sungkyunkwan University
-joined_lab: 2002
+position_joined: 2002
 position: Ph.D. Candidate
 theme_areas:
   - Embedded System

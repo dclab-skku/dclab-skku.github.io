@@ -8,7 +8,7 @@ previous_training:
   MS: Mobile Systems Engineering, Sungkyunkwan University (2012)
   BS: Computer Engineering, Sungkyunkwan University (2010)   
 position: Venture Capitalist at SDB Investment
-joined_lab: 2016
+position_joined: 2016
 theme_areas:
   - Operating System
   - Storage System

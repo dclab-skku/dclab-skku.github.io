@@ -5,7 +5,7 @@ title: Keongseok Lee
 picture: /assets/img/keongseok_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
-joined_lab: 2019
+position_joined: 2019
 position: Master Degree
 theme_areas:
   - Operating System

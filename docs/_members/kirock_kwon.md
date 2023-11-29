@@ -7,7 +7,7 @@ previous_training:
   BS : Kyungpook National University (2000)
   MS : Kyungpook National University (2002)
   PhD : Sungkyunkwan University (2018)
-joined_lab: 2015
+position_joined: 2015
 position: Principal S/W Developer at Samsung Electronics
 theme_areas:
   - Embedded Systems

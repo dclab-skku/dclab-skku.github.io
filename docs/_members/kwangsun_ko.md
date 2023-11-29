@@ -6,7 +6,7 @@ picture: /assets/img/kwangsun_ko.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2009)
 position: Staff at Kim&Jang Law Office
-joined_lab: 2009
+position_joined: 2009
 theme_areas:
   - Network
   - Security

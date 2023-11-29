@@ -7,7 +7,7 @@ previous_training:
   BS : Seoul Univeristy (1983)
   MS : Seoul University (1985)
   PhD : Seoul University (1991)
-joined_lab: 1995
+position_joined: 1995
 position: 정교수 
 theme_areas:
  - 서울대학교 계산통계학과 졸업(학사) (1983. 2)

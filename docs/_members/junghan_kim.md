@@ -6,7 +6,7 @@ picture: /assets/img/junghan_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2010)
   PhD : Sungkyunkwan University
-joined_lab: 2014
+position_joined: 2014
 position: Ph.D. Candidate
 theme_areas:
   - Operating System

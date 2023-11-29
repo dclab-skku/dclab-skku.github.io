@@ -6,7 +6,7 @@ picture: /assets/img/moonseog_han.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2000)
 position: Professor at Gangreong Wonju University
-joined_lab: 2000
+position_joined: 2000
 theme_areas:
   - Operating System
   - Distributed File System

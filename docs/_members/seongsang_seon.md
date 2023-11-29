@@ -6,7 +6,7 @@ picture: /assets/img/seongsang_seon.jpg
 previous_training:
   BS : Sungkyunkwan University (2006)
   PhD : Sungkyunkwan University (2010)
-joined_lab: 2006
+position_joined: 2006
 position: Ph.D. Candidate
 theme_areas:
   - CORBA
