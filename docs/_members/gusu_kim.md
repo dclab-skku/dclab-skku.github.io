@@ -6,7 +6,7 @@ picture: /assets/img/gusu_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2008)
 position: Software Developer at ChaHoo
-position_joined: 2016
+position_joined: 2008
 theme_areas:
   - Mobile Computing
   - XML
@@ -16,7 +16,6 @@ linkedin: gusu_kim
 github: gusu_kim
 ---
 
-He is currently a software developer who works at ChaHoo 
-and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
+Gusu Kim (김구수) received his B.S., M.S. and Ph.D. degrees from the School of Electrical and Computer Engineering at Sungkyunkwan University in 1994, 1996, and 2007 respectively. He is currently in the post doc. course of the Department of Electrical and Computer Engineering, Sungkyunkwan University. He is currently studying P2P and mobile agent systems. 
 
  
