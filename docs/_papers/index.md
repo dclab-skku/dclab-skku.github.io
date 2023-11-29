@@ -10,18 +10,48 @@ Our research lab has many ways of outputting our discoveries. One of our primary
 <br>
 <br>
 <div id="dc_page_title">
-<table class="titTable">
+
+
+<table class='titTable'>
 <tr>
-<td class="blueLine"><i class="icon-time"></i>2023</td>
-<td class="grayLine">&nbsp;</td>
+<td class='blueLine'><i class='icon-time'></i>2023</td>
+<td class='grayLine'>&nbsp;</td>
 </tr>
 </table>
 </div>
-<div id="dc_page_contents">
+<div id='dc_page_contents'>
 <div>
-<font class="dclab_papers_class">국제 컨퍼런스</font>
-</div><ul class="dclab_papers">
-<li> Geunsik Lim, Donghyun Kang, MyungJoo Ham, and Young Ik Eom, "<b>SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices</b>," MobiCom 2023 (Annual International Conference On Mobile Computing And Networking), To appear.<br></li><li> Yongju Song, Wook-Hee Kim, Sumit Kumar Monga, Changwoo Min, and Young Ik Eom, "<b>Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices</b>," ASPLOS 2023 (ACM International Conference on Architectural Support for Programming Languages and Operating Systems), To appear.<br></li><li> Manjong Lee, Jonggyu Park, and Young Ik Eom, "<b>An Efficient F2FS GC Scheme for Improving IO Latency of Foreground Applications</b>," ICCE 2023 (IEEE International Conference on Consumer Electronics).<br></li><li> Jeongho Lee, Yongju Song, and Young Ik Eom, "<b>DCA: A Dual-layer Cache Architecture for Providing High Lookup Performance in KV Stores</b>," BigComp 2023 (IEEE International Conference on Big Data and Smart Computing).<br></li></ul></div><div id="dc_page_title">
+<font class='dclab_papers_class'>국제 컨퍼런스</font>
+</div><ul class='dclab_papers'>
+<li> Taehyung Lee, Sumit Kumar Monga, Changwoo Min, Young Ik Eom, "<b>MEMTIS: Efficient Memory Tiering with Dynamic Page Classification and Page Size Determination</b>," SOSP 2023 (ACM SIGOPS Symposium on Operating Systems Principles), To appear.<br></li><li> KyungSeok Lee, Taehyung Lee, and Young Ik Eom, "<b>Hybrid Local Cache Model for Enhancing Performance and Memory Footprint of Mobile Heap Allocator</b>," GCCE 2023 (IEEE Global Conference on Consumer Electronics), 2023-10-13.<br></li><li> Geunsik Lim, Donghyun Kang, MyungJoo Ham, and Young Ik Eom, "<b>SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices</b>," MobiCom 2023 (Annual International Conference On Mobile Computing And Networking), To appear.<br></li><li> Yongju Song, Wook-Hee Kim, Sumit Kumar Monga, Changwoo Min, and Young Ik Eom, "<b>Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices</b>," ASPLOS 2023 (ACM International Conference on Architectural Support for Programming Languages and Operating Systems), 2023-03-28.<br></li><li> Jeongho Lee, Yongju Song, and Young Ik Eom, "<b>DCA: A Dual-layer Cache Architecture for Providing High Lookup Performance in KV Stores</b>," BigComp 2023 (IEEE International Conference on Big Data and Smart Computing), 2023-02-15.<br></li><li> Manjong Lee, Jonggyu Park, and Young Ik Eom, "<b>An Efficient F2FS GC Scheme for Improving IO Latency of Foreground Applications</b>," ICCE 2023 (IEEE International Conference on Consumer Electronics), 2023-01-07.<br></li></ul>
+<div>
+<font class='dclab_papers_class'>국내 저널</font>
+</div><ul class='dclab_papers'>
+<li> 이경석, 이태형, 엄영익, "<b>Scudo 메모리 할당자의 메모리 사용 효율성 분석</b>," 한국정보과학회논문지, Vol. 50, No. 2, pp. 95-102, 2023-02-15.<br></li></ul></div><div id='dc_page_title'>
+<table class='titTable'>
+<tr>
+<td class='blueLine'><i class='icon-time'></i>2022</td>
+<td class='grayLine'>&nbsp;</td>
+</tr>
+</table>
+</div>
+<div id='dc_page_contents'>
+<div>
+<font class='dclab_papers_class'>국제 저널</font>
+</div><ul class='dclab_papers'>
+<li> Jonggyu Park and Young Ik Eom, "<b>Weight-Aware Cache for Application-Level Proportional I/O Sharing</b>," IEEE Transactions on Computers, Vol. 71, No. 10, pp. 2395-2407, 2022-09-01.<br></li></ul>
+<div>
+<font class='dclab_papers_class'>국제 컨퍼런스</font>
+</div><ul class='dclab_papers'>
+<li> Jonggyu Park and Young Ik Eom, "<b>File Fragmentation from the Perspective of I/O Control</b>," HotStorage 2022 (ACM Workshop on Hot Topics in Storage and File Systems), 2022-06-28.<br></li><li> Yongmyung Lee, Jong-Hyeok Park, Jonggyu Park, Hyunho Gwak, Dongkun Shin, Young Ik Eom, and Sang-Won Lee, "<b>When F2FS Meets Address Remapping</b>," HotStorage 2022 (ACM Workshop on Hot Topics in Storage and File Systems), 2022-06-27.<br></li><li> Taehyung Lee and Young Ik Eom, "<b>Optimizing the Page Hotness Measurement with Re-Fault Latency for Tiered Memory Systems</b>," BigComp 2022 (IEEE International Conference on Big Data and Smart Computing), 2022-01-20.<br></li><li> Hunseop Jeong, Taehyung Lee, and Young Ik Eom, "<b>WebRTC-Based Resource Offloading in Smart Home Environments</b>," ICCE 2022 (IEEE International Conference on Consumer Electronics), 2022-01-07.<br></li></ul>
+<div>
+<font class='dclab_papers_class'>국내 저널</font>
+</div><ul class='dclab_papers'>
+<li> 이정호, 박종규, 엄영익, "<b>F2FS 멀티-헤드 로깅을 이용한 효율적인 RocksDB 레벨링 기법</b>," 한국정보과학회논문지, Vol. 49, No. 8, pp. 655-662, 2022-08-12.<br></li><li> 김태형, 엄영익, "<b>고해상도 표적 신호 검출을 위한 레이다 신호처리기</b>," 한국정보과학회논문지, Vol. 49, No. 5, pp. 369-379, 2022-05-16.<br></li><li> 김정한, 엄영익, "<b>NUMA 아키텍처 기반 PM 자료구조를 고려한 노드 리플리케이션 설계</b>," 한국정보과학회논문지, Vol. 49, No. 1, pp. 8-14, 2022-01-15.<br></li></ul><div style='font-size:14px; font-weight:bold;'>
+<div>
+
+
+
 <table class="titTable">
 <tr>
 <td class="blueLine"><i class="icon-time"></i>2022</td>
@@ -44,6 +74,8 @@ Our research lab has many ways of outputting our discoveries. One of our primary
 <li> 이정호, 박종규, 엄영익, "<b>F2FS 멀티-헤드 로깅을 이용한 효율적인 RocksDB 레벨링 기법</b>," 한국정보과학회논문지, Vol. 49, No. 8, pp. 655-662, 2022-08-12.<br></li><li> 김태형, 엄영익, "<b>고해상도 표적 신호 검출을 위한 레이다 신호처리기</b>," 한국정보과학회논문지, Vol. 49, No. 5, pp. 369-379, 2022-05-16.<br></li><li> 김정한, 엄영익, "<b>NUMA 아키텍처 기반 PM 자료구조를 고려한 노드 리플리케이션 설계</b>," 한국정보과학회논문지, Vol. 49, No. 1, pp. 8-14, 2022-01-15.<br></li></ul><div style="font-size:14px; font-weight:bold;">
 <div id="doConfer2022" style="display:none;">
 <ul class="dclab_papers"> <li> 이정호, 송용주, 엄영익, "<b>RocksDB 메모리 계층 컴포넌트의 구조적 분석</b>," 2022 한국소프트웨어종합학술대화(KSC 2022), 2022-12-22.<br></li><li> 김수겸, 이정호, 엄영익, "<b>LSM-Tree에서 삭제 키로 인한 탐색 성능 저하 현상 분석</b>," 2022 한국소프트웨어종합학술대회(KSC 2022), 2022-12-22.<br></li><li> 이정호, 김수겸, 엄영익, "<b>클라우드 스토리지를 이용한 데이터 전송 성능 최적화 기법</b>," 2022 한국소프트웨어종합학술대화(KSC 2022), 2022-12-21.<br></li><li> 박종규, 엄영익, "<b>BTRFS 파일 시스템에서 Zone Append 커맨드로 인한 파일 단편화 심화 현상 분석</b>," 2022 한국소프트웨어종합학술대화(KSC 2022), 2022-12-21.<br></li><li> 송용주, 엄영익, "<b>스토리지 내구성을 고려한 ZenFS의 Zone 할당 방식 분석</b>," 2022 한국소프트웨어종합학술대화(KSC 2022), 2022-12-20.<br></li><li> 이태형, 엄영익, "<b>메모리 할당자에 따른 계층 메모리 성능 분석</b>," 2022 한국소프트웨어종합학술대화(KSC 2022), 2022-12-20.<br></li><li> 김수겸, 이정호, 엄영익, "<b>RocksDB의 블록 캐시 샤딩에 따른 읽기 성능 분석</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-07-01.<br></li><li> 김정한, 엄영익, "<b>효율적인 멀티 코어 프로그래밍을 위한 함수형 언어의 가변성 연구</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-06-29.<br></li><li> 박종규, 엄영익, "<b>ZNS 인터페이스를 지원하는 파일 시스템 성능 분석</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-06-29.<br></li><li> 이정호, 송용주, 엄영익, "<b>LSM-tree 컴팩션 수행 조건에 따른 읽기 및 쓰기 성능 분석</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-06-29.<br></li><li> 이만종, 박종규, 엄영익, "<b>ZNS SSD를 활용한 F2FS 파일시스템 성능 분석</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-06-29.<br></li><li> 이경석, 이태형, 엄영익, "<b>모바일 메모리 할당자 Scudo의 메모리 단편화 분석</b>," 2022 한국컴퓨터종합학술대회(KCC 2022), 2022-06-29.<br></li></ul></div></div><div id="dc_page_title">
+
+  
 <table class="titTable">
 <tr>
 <td class="blueLine"><i class="icon-time"></i>2021</td>
