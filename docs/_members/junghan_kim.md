@@ -4,9 +4,9 @@ status: current_phd
 title: Junghan Kim
 picture: /assets/img/junghan_kim.jpg
 previous_training:
-  MS : Sungkyunkwan University (2010)
-  PhD : Sungkyunkwan University
-position_joined: 2014
+  MS : Sungkyunkwan University (2012)
+  BS : Sejong University (2008)
+position_joined: 2012
 position: Ph.D. Candidate
 theme_areas:
   - Operating System
