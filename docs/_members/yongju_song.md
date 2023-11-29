@@ -4,22 +4,18 @@ status: alumni_phd
 title: Yongju Song
 picture: /assets/img/yongju_song.jpg
 previous_training:
-  BS : Korea Polytechnic University (2015)
   MS : Sungkyunkwan University (2013)
-  PhD : Sungkyunkwan University (2022)
-position_joined: 2015
+  PhD : Sungkyunkwan University (2023)
+position_joined: 2023
 position: S/W Developer at Samsung Electronics
 theme_areas:
   - File System
   - Heterogeneous Storage System
   - Flash Storage Software
 email: yongju@gmail.com
-orcid: https://orcid.org/***
-research_gate: yongju
-twitter: yongju
 github: yongju
 ---
 
-I (송용주) am currently a Postdoctoral researcher at Sungkyunkwan University.
-My research interests span the fields of Storage Systems, File Systems, and Operating Systems.
+He (송용주) is currently working as a  software researcher at Samsung Electronics.
+His research interests span the fields of Storage Systems, File Systems, and Operating Systems.
 
