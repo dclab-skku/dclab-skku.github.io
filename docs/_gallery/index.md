@@ -31,7 +31,9 @@ We are collecting photos of our memories of our time together here. This is wher
 <hr>
 
 ### Jan-11-2016, VNODE T-CE 저널 논문 IEEE CE Chester Sall Award 1위 수상 
-![image](https://github.com/dclab4u/dclab4u.github.io/assets/82404/20e2c0c8-f6ac-45f7-8360-aba023f0bed3 =x250)
+<a href="https://github.com/dclab4u/dclab4u.github.io/assets/82404/20e2c0c8-f6ac-45f7-8360-aba023f0bed3" target=_blank>
+<img src="https://github.com/dclab4u/dclab4u.github.io/assets/82404/20e2c0c8-f6ac-45f7-8360-aba023f0bed3" height="200" />
+</a>
 <br>
 임근식 석사 과정생의 V-NODE 연구논문이 '서버와 데스크탑과 달리 메모리 용량이 제한적인 모바일 디바이스에서 앱반응성을 개선하기 위한 운영체제 메모리 관리 기술'에 대한 연구가 성과를 널리 인정받아 IEEE CE Society에서 주관하는 T-CE 저널의 Chester Sall 수상 부문에서 세계 1위를 수상하였습니다. [‘Chester Sall’](https://ctsoc.ieee.org/awards/sall.html)상은 매년 전자제품 관련 SCI 저널에 등록된‘IEEE TCE’논문에 대해 2년 후 인용수, 기술 임팩트, 기술위원 평가 등에 의해 선정된 최우수 논문에 수여됩니다. 이번 상의 시상식은 1월 4일부터 미국 라스베이거스에서 개최된 IEEE 국제 학술대회 ‘ICCE 2015' 에서 진행되었습니다. 
 <br>
