@@ -6,8 +6,8 @@ picture: /assets/img/taehyung_lee.jpg
 previous_training:
   BS : Sungkyunkwan University (2017)
   PhD : Sungkyunkwan University (2024)
-position_joined: 2016
-position: Ph.D. Candidate
+position_joined: 2024 (upcoming)
+position: Software researcher at Samsung Electronucs SAIT
 theme_areas:
   - Operating System
   - Memory Subsystem
