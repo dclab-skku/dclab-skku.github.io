@@ -4,7 +4,9 @@ status: alumni_phd
 title: Gusu Kim
 picture: /assets/img/gusu_kim.jpg
 previous_training:
-  PhD: IT Convergence, Sungkyunkwan University (2008)
+  PhD: IT Convergence, Sungkyunkwan University (2007)
+  MS: IT Convergence, Sungkyunkwan University (1996)
+  BS: IT Convergence, Sungkyunkwan University (1994)  
 position: Software Developer at ChaHoo
 position_joined: 2008
 theme_areas:
