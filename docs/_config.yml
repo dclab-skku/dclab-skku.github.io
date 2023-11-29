@@ -4,9 +4,9 @@ email: dclab-skku@gmail.com
 description: > # This means to ignore newlines until "baseurl:"
    The website for the research group of Dr. Young Ik Eom at the University
    of SKK in the Department of Electrical & Computer Engineering
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dclab-skku.github.io" # the base hostname & protocol for your site
-github_username: dclab-skku/dclab-skku.github.io
+github_username: "dclab-skku/dclab-skku.github.io"
 array: []
 
 # Build settings
