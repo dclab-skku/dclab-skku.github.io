@@ -4,7 +4,7 @@ status: current_phd
 title: Junghan Kim
 picture: /assets/img/junghan_kim.jpg
 previous_training:
-  BS : Sungkyunkwan University (2010)
+  MS : Sungkyunkwan University (2010)
   PhD : Sungkyunkwan University
 joined_lab: 2014
 position: Ph.D. Candidate
