@@ -5,9 +5,9 @@ title: Sungeol Baek
 picture: /assets/img/sungeol_baek.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
-  PhD : Sungkyunkwan University (2019)
+  PhD : Sungkyunkwan University (2021)
 position_joined: 2006
-position: Principal Engineer an Hyundai Motors Group
+position: Principal Software Engineer at Hyundai Motors Group
 theme_areas:
   - Database System
   - Graph Database
@@ -16,4 +16,4 @@ email: sunggeol@gmail.com
 github: sunggeol
 ---
 
-Sun Geol Baek (백선걸) received the B.S. degree in Computer Science and Engineering from Konkuk University in 2006. He is currently a M.S. student at Sungkyunkwan University, and a software engineer of Hyundai Motors Group. His research interests include database systems, graph databases, and query processing.
+Sungeol Baek (백선걸) received the B.S. degree in Computer Science and Engineering from Konkuk University in 2006. He is currently a software engineer at Hyundai Motors Group. His research interests include database systems, graph databases, and query processing.
