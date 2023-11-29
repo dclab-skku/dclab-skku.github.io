@@ -7,7 +7,7 @@
 * GitHub Repo - [https://github.com/dclab-skku/dclab-skku.github.io](https://github.com/dclab-skku/dclab-skku.github.io)
 
 # Maintainers
-https://dclab-skku.github.io 홈페이지의 모든 컨텐츠들은 깃허브의 표준 운영 방식인 Pull Request (PR)을 통하여 제출/리뷰/머징을 합니다. 우리는 이렇게 개방형 및 자율형 체계를 통해 홈페이지의 컨텐츠들을 동적이고 능동적으로 관리합니다. 따라서, 컨텐츠의 수정사항은 PR을 제출하여 주시면 감사하겠습니다. 
+[DC Lab](https://dclab-skku.github.io ) 홈페이지의 모든 컨텐츠들은 깃허브의 표준 운영 방식인 Pull Request (PR)을 통하여 제출/리뷰/머징되고 있습니다. 우리는 이렇게 개방형 및 자율형 체계를 통해 홈페이지의 컨텐츠들을 동적이고 능동적으로 관리합니다. 따라서, 컨텐츠의 수정사항은 PR을 제출하여 주시면 감사하겠습니다. 
 * Geunsik Lim <leemgs@gmail.com>
 * Taehyung Lee <coco2638@gmail.com>
 
