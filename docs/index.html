@@ -13,10 +13,13 @@ attribution:
 
 <script>
     function popup(){
-        var url = "popup.html";
-         var name = "popup test";
-        var option = "width = 500, height = 500, top = 100, left = 200, location = no"
-        window.open(url, name, option);
+      var url = "popup.html";
+      var name = "popup window";
+      var option = "width = 500, height = 500, top = 100, left = 200, location = no";
+      winpop = window.open(url, name, option);
+      // if (!winpop || winpop.closed) alert("Popups are required");
+      // close automatically pop-up window after 10 minutes (600,000 = 10m * 60s * 1000)
+      setTimeout(function(){winpop.close()}, 600000);
     }
 popup();
 </script>
