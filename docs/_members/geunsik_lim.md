@@ -6,8 +6,8 @@ picture: /assets/img/geunsik_lim.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2023)
-position: S/W Researcher & Developer at Samsung Electronics
-position_joined: 2012
+position: Principal S/W Researcher & Developer at Samsung Research (SR)
+position_joined: 2003
 theme_areas:
   - Embedded Systems
   - Operating System
@@ -19,7 +19,6 @@ email: leemgs@gmail.com
 orcid: 0000-0003-1845-7132
 linkedin: leemgs
 arxiv: lim_g_1
-twitter: leemgs
 github: leemgs
 website: https://leemgs.github.io
 ---
