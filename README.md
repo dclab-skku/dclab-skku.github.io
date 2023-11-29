@@ -5,3 +5,9 @@
 * GitHub Homepage - [https://dclab-skku.github.io](https://dclab-skku.github.io)
   * Out-of-date version - [https://dclab.skku.ac.kr](https://dclab.skku.ac.kr)
 * GitHub Repo - [https://github.com/dclab-skku/dclab-skku.github.io](https://github.com/dclab-skku/dclab-skku.github.io)
+
+# Maintainers
+* Geunsik Lim <leemgs@gmail.com>
+* Taehyung Lee <coco2638@gmail.com>
+
+
