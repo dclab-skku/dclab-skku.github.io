@@ -4,18 +4,16 @@ status: alumni_phd
 title: Kirock Kwon
 picture: /assets/img/kirock_kwon.jpg
 previous_training:
-  BS : Kyungpook National University (2000)
-  MS : Kyungpook National University (2002)
+  BS : Kyoungbook National University (2000)
+  MS : Kyoungbook National University (2002)
   PhD : Sungkyunkwan University (2018)
-position_joined: 2015
+position_joined: 2002
 position: Principal S/W Developer at Samsung Electronics
 theme_areas:
   - Embedded Systems
   - Operating System
   - Storage System
-email: kirock@gmail.com
-orcid: https://orcid.org/****
-research_gate: kirock
+email: kr.kwon@samsung.com
 twitter: kirock
 github: kirock
 ---
