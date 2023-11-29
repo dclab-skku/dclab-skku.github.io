@@ -4,8 +4,9 @@ status: current_phd
 title: Hyungkook Jeon
 picture: /assets/img/hyungkook_jeon.jpg
 previous_training:
-  MS : Sungkyunkwan University (2002)
-position_joined: 2002
+  MS : Sungkyunkwan University (2001)
+  BS : Sungkyunkwan University (1999)
+position_joined: 2001
 position: Ph.D. Candidate
 theme_areas:
   - Embedded System
