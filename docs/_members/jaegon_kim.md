@@ -5,16 +5,14 @@ title: Jaegon Kim
 picture: /assets/img/jaegon_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2015)
-position_joined: 2016
+position_joined: 2005
 position: Software Developt at Samsung Electronics
-position_joined: 2016
 theme_areas:
   - Operating System
   - Cloud Computing
   - Virtualization
   - 5G Networks
 email: jaegon@gmail.com
-orcid: https://orcid.org/****
 research_gate: jaegon
 twitter: jaegon
 github: jaegon
