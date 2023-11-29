@@ -4,17 +4,15 @@ status: alumni_phd
 title: Sungeol Baek
 picture: /assets/img/sungeol_baek.jpg
 previous_training:
-  MS : Sungkyunkwan University (2015)
+  MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2019)
-position_joined: 2011
-position: Principal Engineer an Hyundai Motor
+position_joined: 2006
+position: Principal Engineer an Hyundai Motors Group
 theme_areas:
-  - Distributed System
-  - Algorithms
+  - Database System
+  - Graph Database
+  - Query Processing
 email: sunggeol@gmail.com
-orcid: https://orcid.org/****
-research_gate: sunggeol
-twitter: sunggeol
 github: sunggeol
 ---
 
