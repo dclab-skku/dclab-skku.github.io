@@ -18,3 +18,9 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	font-family: 'Montserrat', sans-serif;
 }
+
+.popup_font {
+	font-family: 'Jua', sans-serif;
+	color: blue;
+	font-style: italic;
+} 
