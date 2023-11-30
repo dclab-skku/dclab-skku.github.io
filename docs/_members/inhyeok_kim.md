@@ -6,9 +6,8 @@ picture: /assets/img/inhyeok_kim.jpg
 previous_training:
   PhD: Electrical & Computing Engineering, Sungkyunkwan University (2018)
   MS: Mobile Systems Engineering, Sungkyunkwan University (2009)
-  BS: Computer Engineering, Sungkyunkwan University (2007)   
-position: 
-position_joined: 2022
+position: CEO at NEMO-UX start-up 
+position_joined: 2015
 theme_areas:
   - Virtualization
   - Operating System
