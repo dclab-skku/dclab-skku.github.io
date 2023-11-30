@@ -1,29 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
 
-.csspopup {
-	font-family: 'Jua', sans-serif;
-	color: blue;
-	font-style: italic;
-} 
-
-p {
-  font-family: "Jua", sans-serif;
-}
- 
-.regular {
-  font-weight: 300;
-}
- 
-.medium {
-  font-weight: 500;
-}
- 
-.bold {
-  font-weight: 700;
-}
-
-body {
-	font-family: 'Jua', sans-serif;
-	font-family: 'Jua', sans-serif;
-}
-
+	/* define a class option */
+	.css_popup {
+		font-family: 'Jua', sans-serif;
+		color: blue;
+		font-style: normal;
+	}
