@@ -22,7 +22,7 @@ jobs:
       # See: https://docs.github.com/en/actions/configuring-and-managing-workflows/authenticating-with-the-github_token#permissions-for-the-github_token
       # This is necessary because the "DSpace Backlog" project is an org level project (i.e. not repo specific)
       with:
-        github-token: ${{ secrets.TRIAGE_PROJECT_TOKEN }}
+        github-token: ${{ secrets.DCLAB-SKKU }}
         script: |
           github.issues.createComment({
             issue_number: context.issue.number,
