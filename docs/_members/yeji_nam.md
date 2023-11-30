@@ -1,13 +1,20 @@
-남예지
-학과: 전자전기컴퓨터공학과
-이메일: yeji.namm.at.gmail.com
-홈페이지:
-소속: LG전자
-연구분야: Virtualization, Embedded system
-	
-오찬수
-학과: 소프트웨어플랫폼학과
-이메일: chansoo.oh.at.gmail.com
-홈페이지:
-소속: 한화테크윈
-연구분야: Linux kernel, Embedded system
+---
+layout: labbies
+status: alumni_ms
+title: Yeji Nam
+picture: /assets/img/yeji_nam.jpg
+previous_training:
+  MS : Sungkyunkwan University (2018)
+position_joined: 2018
+position: Software Engineer at LG Electronics
+theme_areas:
+  - Virtualization
+  - Embedded System
+  - File Systems
+email: yeji.namm@gmail.com
+github: yeji.namm
+---
+
+During my master's program, I (남예지) researched virtualization frameworks and
+file system techniques and published papers in domestic
+conferences. I joined LG Electronics after graduating from my master's program.
