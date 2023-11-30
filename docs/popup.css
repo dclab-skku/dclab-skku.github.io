@@ -3,7 +3,7 @@ p {
 }
  
 .regular {
-  font-weight: 400;
+  font-weight: 300;
 }
  
 .medium {
@@ -12,4 +12,9 @@ p {
  
 .bold {
   font-weight: 700;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
