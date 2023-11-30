@@ -25,7 +25,7 @@ website: https://leemgs.github.io
 ---
 
 Geunsik Lim (임근식) has been working as a software engineer to research and develop a commercial AI model at Samsung Research. Recently, he has been developing a mobile software platform's low-level system software to strengthen consumer electronics (CE) devices' product competitiveness. He has participated in the Ottawa Linux Symposium (OLS), Linux.org.au (LCA), and IEEE conferences as a speaker and session chair to help the open-source ecosystem. Before that, he had engaged in UNIX/Linux core of advanced technology R&D work. He has worked with different kinds of system software to set up embedded devices like smartphones, tablets, digital TVs, and printers. He has been involved in a range of open-source projects, including Linux, GCC, Glibc, Android, and Tizen. He loves to use the Linux kernel and open-source software to help commercial embedded devices and solve technical problems.
-* Representative Achievements:
+* Representative Achievements (1st author):
   - <a href="https://dl.acm.org/doi/abs/10.1145/3570361.3592518">SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices [MobiCom'23]</a>
   - <a href="https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00009">LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software [ICSE-SEIP'21]</a>
   - <a href="https://dl.acm.org/doi/10.1145/2901318.2901320">BB: Booting booster for consumer electronics with modern OS [EuroSys'16]</a>
