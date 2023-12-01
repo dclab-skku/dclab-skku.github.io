@@ -6,6 +6,8 @@ title: Gallery
 
 We are collecting photos of our memories of our time together here. This is where we will permanently store memorable photos to remember our classmates. 
 <br>
+<br>
+If you would like to view more photos from our lab, please go to this [LINK](https://github.com/dclab-skku/dclab-skku.github.io/issues). You are also free to upload your own photos at this address.
 <hr>
 <br>
 
