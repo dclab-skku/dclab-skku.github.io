@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Keonwoo Kim
-picture: /assets/img/keonwoo_kim.jpg
+picture: /assets/img/keonwoo_kim.png
 previous_training:
   MS : Sungkyunkwan University (2014)
 position_joined: 2014
