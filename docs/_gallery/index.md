@@ -1,7 +1,7 @@
 ---
 layout: index_page
 category: gallery
-title: Gallery
+title: DC Lab Gallery
 ---
 
 We are collecting photos of our memories of our time together here. This is where we will permanently store memorable photos to remember our classmates. 
