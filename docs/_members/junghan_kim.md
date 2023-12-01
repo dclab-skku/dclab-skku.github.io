@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Junghan Kim
-picture: /assets/img/junghan_kim.jpg
+picture: /assets/photo/junghan_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2012)
   BS : Sejong University (2008)

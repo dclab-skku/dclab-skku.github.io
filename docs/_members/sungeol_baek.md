@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Sungeol Baek
-picture: /assets/img/sungeol_baek.jpg
+picture: /assets/photo/sungeol_baek.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2021)

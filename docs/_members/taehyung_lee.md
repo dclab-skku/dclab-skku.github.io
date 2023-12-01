@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Taehyung Lee
-picture: /assets/img/taehyung_lee.jpg
+picture: /assets/photo/taehyung_lee.jpg
 previous_training:
   BS : Sungkyunkwan University (2017)
   PhD : Sungkyunkwan University (2024)

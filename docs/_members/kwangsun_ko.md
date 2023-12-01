@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Kwangsun Ko
-picture: /assets/img/kwangsun_ko.jpg
+picture: /assets/photo/kwangsun_ko.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2009)
 position: Staff at Kim&Jang Law Office

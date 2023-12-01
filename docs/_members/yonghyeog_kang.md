@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Yonghyeog Kang
-picture: /assets/img/yonghyeog_kang.jpg
+picture: /assets/photo/yonghyeog_kang.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2002)
 position: Professor at Geokdong University

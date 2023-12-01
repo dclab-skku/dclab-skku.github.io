@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Jeehong Kim
-picture: /assets/img/jeehong_kim.jpg
+picture: /assets/photo/jeehong_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2015)
 position: Software Developer at Samsung Electronics

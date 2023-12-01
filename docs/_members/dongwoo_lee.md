@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Dongwoo Lee
-picture: /assets/img/dongwoo_lee.jpg
+picture: /assets/photo/dongwoo_lee.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2016)
   MS: Mobile Systems Engineering, Sungkyunkwan University (2012)

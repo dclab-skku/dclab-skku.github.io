@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Inhyeok Kim
-picture: /assets/img/inhyeok_kim.jpg
+picture: /assets/photo/inhyeok_kim.jpg
 previous_training:
   PhD: Electrical & Computing Engineering, Sungkyunkwan University (2018)
   MS: Mobile Systems Engineering, Sungkyunkwan University (2009)

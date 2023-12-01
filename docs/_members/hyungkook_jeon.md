@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Hyungkook Jeon
-picture: /assets/img/hyungkook_jeon.jpg
+picture: /assets/photo/hyungkook_jeon.jpg
 previous_training:
   MS : Sungkyunkwan University (2001)
   BS : Sungkyunkwan University (1999)

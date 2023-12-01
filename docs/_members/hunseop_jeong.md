@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Hunseop Jeong
-picture: /assets/img/hunseop_jeong.jpg
+picture: /assets/photo/hunseop_jeong.jpg
 previous_training:
   MS: Sungkyunkwan University (2022)
 position_joined: 2012

@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Changwoo Min
-picture: /assets/img/changwoo_min.jpg
+picture: /assets/photo/changwoo_min.jpg
 previous_training:
   MS : SoongSil University (2008)
   PhD : Sungkyunkwan University (2014)

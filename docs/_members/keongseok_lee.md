@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Keongseok Lee
-picture: /assets/img/keongseok_lee.jpg
+picture: /assets/photo/keongseok_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
 position_joined: 2019

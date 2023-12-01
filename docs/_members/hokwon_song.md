@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Hokwon Song
-picture: /assets/img/hokwon_song.jpg
+picture: /assets/photo/hokwon_song.jpg
 previous_training:
   MS : Sungkyunkwan University (2013)
 position_joined: 2005

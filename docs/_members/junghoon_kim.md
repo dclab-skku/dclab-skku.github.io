@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Junghoon Kim
-picture: /assets/img/junghoon_kim.jpg
+picture: /assets/photo/junghoon_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2016)
   MS: Mobile Systems Engineering, Sungkyunkwan University (2012)

@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Kirock Kwon
-picture: /assets/img/kirock_kwon.jpg
+picture: /assets/photo/kirock_kwon.jpg
 previous_training:
   BS : Kyoungbook National University (2000)
   MS : Kyoungbook National University (2002)

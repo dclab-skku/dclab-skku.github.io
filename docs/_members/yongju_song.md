@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Yongju Song
-picture: /assets/img/yongju_song.jpg
+picture: /assets/photo/yongju_song.jpg
 previous_training:  
   PhD : Sungkyunkwan University (2023)
 position_joined: 2023

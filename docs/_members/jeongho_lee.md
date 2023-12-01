@@ -2,7 +2,7 @@
 layout: labbies
 status: current_ms
 title: Jeongho Lee
-picture: /assets/img/jeongho_lee.jpg
+picture: /assets/photo/jeongho_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
 position_joined: 2016

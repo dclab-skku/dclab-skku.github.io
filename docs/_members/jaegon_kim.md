@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Jaegon Kim
-picture: /assets/img/jaegon_kim.jpg
+picture: /assets/photo/jaegon_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2015)
 position_joined: 2005

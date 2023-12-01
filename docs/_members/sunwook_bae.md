@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Sunwook Bae
-picture: /assets/img/sunwook_bae.jpg
+picture: /assets/photo/sunwook_bae.jpg
 previous_training:
   MS : Sungkyunkwan University (2013)
   BS : Korea University (2005)

@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Jeonghee Kim
-picture: /assets/img/jeonghee_kim.jpg
+picture: /assets/photo/jeonghee_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2005)
 position_joined: 2005

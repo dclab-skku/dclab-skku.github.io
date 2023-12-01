@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Hyunsu Jang
-picture: /assets/img/hyunsu_jang.jpg
+picture: /assets/photo/hyunsu_jang.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2010)
 position: Software Developer

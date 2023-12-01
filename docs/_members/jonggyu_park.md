@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Jonggyu Park
-picture: /assets/img/jonggyu_park.jpg
+picture: /assets/photo/jonggyu_park.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
   PhD : Sungkyunkwan University (2019)

@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Geunsik Lim
-picture: /assets/img/geunsik_lim.jpg
+picture: /assets/photo/geunsik_lim.jpg
 previous_training:
   PhD : Sungkyunkwan University (2023)
   MS : Sungkyunkwan University (2014)  

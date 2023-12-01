@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Hyunjin Choe
-picture: /assets/img/hyunjin_cho.jpg
+picture: /assets/photo/hyunjin_cho.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2011)
 position: Software Developer at Samsung Electronics

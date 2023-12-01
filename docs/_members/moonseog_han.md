@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Moonseog Han
-picture: /assets/img/moonseog_han.jpg
+picture: /assets/photo/moonseog_han.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2000)
 position: Professor at Gangreong Wonju University

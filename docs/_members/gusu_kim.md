@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Gusu Kim
-picture: /assets/img/gusu_kim.jpg
+picture: /assets/photo/gusu_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2007)
   MS: IT Convergence, Sungkyunkwan University (1996)

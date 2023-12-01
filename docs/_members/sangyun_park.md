@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Sangyun park
-picture: /assets/img/sangyun_park.jpg
+picture: /assets/photo/sangyun_park.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2005)
 position: Professor at Daelim University

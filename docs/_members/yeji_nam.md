@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Yeji Nam
-picture: /assets/img/yeji_nam.jpg
+picture: /assets/photo/yeji_nam.jpg
 previous_training:
   MS : Sungkyunkwan University (2018)
 position_joined: 2018

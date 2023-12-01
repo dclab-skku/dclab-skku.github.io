@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Seongsang Seon
-picture: /assets/img/seongsang_seon.jpg
+picture: /assets/photo/seongsang_seon.jpg
 previous_training:
   MS : Sungkyunkwan University (2008)
   BS : Sungkyunkwan University (2006)

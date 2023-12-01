@@ -2,7 +2,7 @@
 layout: labbies
 status: professor
 title: Young Ik Eom
-picture: /assets/img/yieom.jpg
+picture: /assets/photo/youngik_eom.jpg
 previous_training:
   BS : Seoul Univeristy (1983)
   MS : Seoul University (1985)

@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_phd
 title: Moonjeong Kim
-picture: /assets/img/moonjeong_kim.jpg
+picture: /assets/photo/moonjeong_kim.jpg
 previous_training:
   PhD: IT Convergence, Sungkyunkwan University (2004)
 position: Professor at Youngdong University

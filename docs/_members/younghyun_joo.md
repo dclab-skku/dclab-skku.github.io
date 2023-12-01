@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Younghyun Joo
-picture: /assets/img/younghyun_joo.jpg
+picture: /assets/photo/younghyun_joo.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
 position_joined: 2014

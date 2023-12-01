@@ -2,7 +2,7 @@
 layout: labbies
 status: current_phd
 title: Taehyung Kim
-picture: /assets/img/taehyung_kim.jpg
+picture: /assets/photo/taehyung_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2012)
   BS : Sungkyunkwan University (2008)

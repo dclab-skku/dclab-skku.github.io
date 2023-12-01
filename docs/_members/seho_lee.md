@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Seho Lee
-picture: /assets/img/seho_lee.jpg
+picture: /assets/photo/seho_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2014)
 position_joined: 2015
