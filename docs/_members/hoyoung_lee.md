@@ -1,8 +1,8 @@
 ---
 layout: labbies
 status: alumni_ms
-title: Hoyoung Lee`
-picture: /assets/photo/keonwoo_kim.jpg
+title: Hoyoung Lee
+picture: /assets/photo/hoyoung_lee.jpg
 previous_training:
   MS : Sungkyunkwan University (2019)
 position_joined: 2014
