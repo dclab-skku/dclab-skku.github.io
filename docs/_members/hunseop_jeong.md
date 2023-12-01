@@ -8,12 +8,11 @@ previous_training:
 position_joined: 2012
 position: Software Engineer at Samsung Electronics
 theme_areas:
-  - Web FW
+  - Web Framework (F/W)
+  - Tizen Software Platform
 
 email: hs85jeong@gmail.com
 github: hs85jeong
 ---
 
-During my master's program, I researched resource offloading framework and
-published papers in ICCE conference. I am working at Samsung Electronics
-as SW Engineer.
+During my master's program, I (정훈섭) researched resource offloading framework and published my technical paper in IEEE-ICCE conference in 2012 year. I am currently working at Samsung Electronics as a software engineer.
