@@ -23,3 +23,4 @@ github: minho
 ---
 
 Minho Lee (이민호) received the B.S. degree in electronic and electrical engineering and the M.S. and Ph.D. degrees in electrical and computer engineering from Sungkyunkwan University, South Korea, in 2013, 2015, and 2021, respectively. He is currently a Postdoctoral Researcher with the Department of Electrical and Computer Engineering, Sungkyunkwan University. His research interests include virtualization, file and storage systems, and operating systems.
+* Thesis: [M-CLOCK: Migration-optimized Page Replacement Algorithm for Hybrid DRAM and PCM Memory Architecture](https://dcollection.skku.edu/srch/srchDetail/000000074082)
