@@ -28,3 +28,5 @@ My particular fascination lies in the interplay between hardware, operating syst
 Linux kernel and compiler technologies hold a special place in my heart, and I find great joy in delving into their inner workings.
 
 When I’m not immersed in these technical pursuits, I indulge in my love for photography, relish a good cup of coffee, and cherish precious moments spent with my loved ones, as I proudly fulfill the role of a devoted father to my son.
+
+* Thesis:[DANBI: A Programming Model and Runtime for Dynamic and Scalable Stream Parallelism](https://dcollection.skku.edu/srch/srchDetail/000000049530)
