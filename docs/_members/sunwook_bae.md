@@ -22,3 +22,4 @@ A professional software developer and architect with broad experience from enter
 Specialties:
  Operating System (Linux), Virtual Machine, Mobile Platform, Android App Development, Machine Learning, IoT Platform and Services (especially, SmartThings)
 He is currently developing mobile devices at Samsung Electronics. He completed his master's program in DMC Engineering while working. 
+* Thesis: [EIMOS: Enhancing Interactivity in Mobile Operating Systems](https://dcollection.skku.edu/srch/srchDetail/000000028283)
