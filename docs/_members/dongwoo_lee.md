@@ -20,5 +20,5 @@ github: dongwoo_lee
 
 Dongwoo Lee (이동우) is currently a software developer who works at Samsung Research
 and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
-
+* Thesis:[Methods for Improving Network and Storage Performance in Virtualized Systems](https://dcollection.skku.edu/srch/srchDetail/000000087762)
  
