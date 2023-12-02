@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Taeyong Kim
-picture: /assets/photo/taeyoung_kim.jpg
+picture: /assets/photo/taeyong_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (1993)
 position_joined: 1993

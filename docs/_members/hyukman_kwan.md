@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Hyukman Kwan
-picture: /assets/photo/hyukan_kwan.jpg
+picture: /assets/photo/hyukman_kwan.jpg
 previous_training:
   MS : Sungkyunkwan University (1993)
 position_joined: 1993

@@ -2,7 +2,7 @@
 layout: labbies
 status: alumni_ms
 title: Kyungdon Jang
-picture: /assets/photo/kyungon_jang.jpg
+picture: /assets/photo/kyungdon_jang.jpg
 previous_training:
   MS : Sungkyunkwan University (1993)
 position_joined: 1993
