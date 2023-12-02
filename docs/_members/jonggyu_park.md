@@ -22,3 +22,6 @@ github: jonggyupark
 I (박종규) am Jonggyu Park, a Post-doc researcher at the University of Washington, advised by Tom Anderson and Simon Peter. My research interests include operating systems, storage, containers, and now energy-efficiency.
 
 I received my B.S., M.S. (advised by Euiseong Seo), and Ph.D. (advised by Young Ik Eom) from Sungkyunkwan University in 2014, 2016, and 2022, respectively.
+* Thesis:
+  * MS:[An Efficient Cleaning Scheme for File Defragmentation on Log-Structured File System](https://dcollection.skku.edu/srch/srchDetail/000000096536), 2016
+  * Phd:[Towards Fairness-Oriented High-Performance Computer Systems](https://dcollection.skku.edu/srch/srchDetail/000000171123), 2022
