@@ -29,4 +29,5 @@ Geunsik Lim (임근식) has been working as a software engineer to research and 
   - <a href="https://dl.acm.org/doi/abs/10.1145/3570361.3592518">SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices [MobiCom'23]</a>
   - <a href="https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00009">LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software [ICSE-SEIP'21]</a>
   - <a href="https://dl.acm.org/doi/10.1145/2901318.2901320">BB: Booting booster for consumer electronics with modern OS [EuroSys'16]</a>
-  - <a href="https://ieeexplore.ieee.org/document/6689690">VNODE: Virtual memory partitioning for enhancing application performance in mobile platforms [TCE'13]</a>  
+  - <a href="https://ieeexplore.ieee.org/document/6689690">VNODE: Virtual memory partitioning for enhancing application performance in mobile platforms [TCE'13]</a>
+* Thesis: [Improving Application Latency and User Experience on Embedded Linux Systems](https://dcollection.skku.edu/srch/srchDetail/000000174970)
