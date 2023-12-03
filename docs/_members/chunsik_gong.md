@@ -1,17 +1,17 @@
 ---
 layout: labbies
-status: alumni_ms
+status: current_ms
 title: Chunsik Gong
 picture: /assets/photo/chunsik_gong.jpg
 previous_training:
-  MS : Sungkyunkwan University (1993)
-position_joined: 1993
-position: Software developer at a company
+  MS : Sungkyunkwan University (2024)
+position_joined: ****
+position: Software developer at SK C&C
 theme_areas:
   - Operating System
   - Distributed System
   - Software Platform
-email: chunsik_gong@gmail.com
+email: krkong920509gmail.com
 github: gildong.hong
 ---
 
