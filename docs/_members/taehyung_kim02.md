@@ -4,14 +4,14 @@ status: alumni_ms
 title: Taehyung Kim
 picture: /assets/photo/taehyung_kim02.jpg
 previous_training:
-  MS : Sungkyunkwan University (2008)
-position_joined: 2008
-position: Software developer at Samsung Electronics
+  MS : Sungkyunkwan University (2022)
+position_joined: ****
+position: Software developer at Hanwha Systems
 theme_areas:
   - Operating System
   - Distributed System
   - Software Platform
-email: taehyung_kim02@gmail.com
+email: thkim1003@g.skku.edu
 github: taehyung_kim02
 ---
 
