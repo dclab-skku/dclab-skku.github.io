@@ -1,8 +1,9 @@
 
 ---
-# [Template] PR Description
+## How to write your PR Description
 
-In general, github system automatically copies your commit message for your convenience.
+In general, the GitHub system automatically copies your commit message for your convenience.
+
 Please remove the below template contents after writing your PR description.
 ```bash
 $ git commit -s filename1 filename2 ... [enter]
