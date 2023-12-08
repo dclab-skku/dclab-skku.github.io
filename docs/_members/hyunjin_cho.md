@@ -19,4 +19,4 @@ github: hyunjin_cho
 He (조현진)is currently a software developer who works at Samsung Electronics 
 and actively is interested in cutting-edge technologies in the IT and mobile fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
- 
+ * Thesis: [Garbage Collection Blocking Time Minimization for NAND Flash Memory in Real-Time Systems](http://www.dcollection.net/handler/skku/000000026281)
