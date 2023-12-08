@@ -17,3 +17,5 @@ github: sunggeol
 ---
 
 Sungeol Baek (백선걸) received the B.S. degree in Computer Science and Engineering from Konkuk University in 2006. He is currently a software engineer at Hyundai Motors Group. His research interests include database systems, graph databases, and query processing.
+
+* Thesis: [Efficient Graph Preprocessing Techniques for Distance and Similarity Queries on Large-Scale Graphs](http://www.dcollection.net/handler/skku/000000161069)
