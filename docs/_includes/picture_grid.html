@@ -36,9 +36,9 @@
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
 		                        {% if include.pages == "members" %}
-					    <div class="caption">{{ item.title }} ({{ total_index }})</div>
+					    <div class="caption">{{ item.title }} ({{ total_index }}) {{ include.pages }}</div>
 					{% else %}
-					    <div class="caption">{{ item.title }}</div>
+					    <div class="caption">{{ item.title }} {{ include.pages }}</div>
 		                        {% endif %}
 				</a>
 			</div>
