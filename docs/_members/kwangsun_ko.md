@@ -4,7 +4,7 @@ status: alumni_phd
 title: Kwangsun Ko
 picture: /assets/photo/kwangsun_ko.jpg
 previous_training:
-  PhD: Sungkyunkwan University (2009)
+  PhD: Sungkyunkwan University (2007)
   MS: Sungkyunkwan University (2004)
 position: Staff at Kim&Jang Law Office
 position_joined: 2009
@@ -18,4 +18,4 @@ linkedin: kwangsun_ko
 
 He (고광선) actively is interested in cutting-edge technologies in the IT and law fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
- 
+* Thesis:[Design of Worm-based Attack Mitigation Scheme using Usage Rate of Network](http://dcollection.skku.edu/jsp/common/DcLoOrgPer.jsp?sItemId=000000019244)
