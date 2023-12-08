@@ -24,16 +24,18 @@
 	{%	endif												%}
 
 	{% assign column_index = 0 %}
+	{% assign total_index = 0 %}
 
 	{% for item in include.pages %}
 
+		{% assign total_index = total_index | plus: 1 %}
 		{% if item.layout != "index_page" %}
 			{% if column_index == 0 %}<div class="row">{% endif %}
 			{% assign column_index = column_index | plus: 1 %}
 			<div class="col-md-{{width}}">
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
-					<div class="caption">{{ item.title }}</div>
+					<div class="caption">{{ item.title }} ({{ total_index }})</div>
 				</a>
 			</div>
 		{% endif %}
