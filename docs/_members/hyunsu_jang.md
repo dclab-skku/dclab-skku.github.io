@@ -4,7 +4,7 @@ status: alumni_phd
 title: Hyunsu Jang
 picture: /assets/photo/hyunsu_jang.jpg
 previous_training:
-  PhD: IT Convergence, Sungkyunkwan University (2010)
+  PhD: Sungkyunkwan University (2010)
 position: Software Developer
 position_joined: 2010
 theme_areas:
@@ -16,6 +16,6 @@ linkedin: hyunsu_jang
 github: hyunsu_jang
 ---
 
-He actively is interested in cutting-edge technologies in the IT and HCI fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
+He (장현수) actively is interested in cutting-edge technologies in the IT and HCI fields. He completed his PhD at Sungkyunkwan University, under the guidance and support of Prof. Young Ik Eom.
 
  
