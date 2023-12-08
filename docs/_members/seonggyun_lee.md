@@ -10,9 +10,9 @@ position: Software developer at Samsung Electronics
 theme_areas:
   - Operating System
   - Distributed System
-  - Software Platform
+  - Storage System
 email: seonggyun_lee@gmail.com
-github: gildong.hong
+github: seonggyun_lee
 ---
 
-I (홍길동) explored distributed systems and operating systems during my master's program. I presented research papers at national conferences.
+I (이성균) explored distributed systems and operating systems during my master's program. I presented research papers at national conferences.
