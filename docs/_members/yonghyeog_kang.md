@@ -4,14 +4,15 @@ status: alumni_phd
 title: Yonghyeog Kang
 picture: /assets/photo/yonghyeog_kang.jpg
 previous_training:
-  PhD: IT Convergence, Sungkyunkwan University (2002)
+  PhD: Sungkyunkwan University (2004)
+  MS: Sungkyunkwan University (1998)
 position: Professor at Far East University
-position_joined: 2002
+position_joined: 2004
 theme_areas:
   - Distributed System
   - Distirubted File System
   - Security
-email: yhkang03@daum.net
+email: yhkang@kdu.ac.kr
 linkedin: yonghyeog_kang
 github: yonghyeog_kang
 ---
