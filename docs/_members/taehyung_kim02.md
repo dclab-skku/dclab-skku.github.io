@@ -5,7 +5,7 @@ title: Taehyung Kim
 picture: /assets/photo/taehyung_kim02.jpg
 previous_training:
   MS : Sungkyunkwan University (2022)
-position_joined: ****
+position_joined: TBA
 position: Software developer at Hanwha Systems
 theme_areas:
   - Operating System
