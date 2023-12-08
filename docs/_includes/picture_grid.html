@@ -35,7 +35,11 @@
 			<div class="col-md-{{width}}">
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
-					<div class="caption">{{ item.title }} ({{ total_index }})</div>
+		                        {% if include.pages == "members" %}
+					    <div class="caption">{{ item.title }} ({{ total_index }})</div>
+					{% else %}
+					    <div class="caption">{{ item.title }}</div>
+		                        {% endif %}
 				</a>
 			</div>
 		{% endif %}
