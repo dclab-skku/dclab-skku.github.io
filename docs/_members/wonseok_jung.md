@@ -12,7 +12,6 @@ theme_areas:
   - Distributed System
   - Software Platform
 email: enaseok@g.skku.edu
-github: -
 ---
 
 I (정원석) explored distributed systems and operating systems during my master's program. I presented research papers at national conferences.
