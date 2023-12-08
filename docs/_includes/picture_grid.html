@@ -17,9 +17,9 @@
 {%              assign value = page.categories[0]               %}
 {%      elsif page.collection == nil                            %}
 {%              assign value = page.category                    %}
-{%      else                                                                            %}
+{%      else                                                    %}
 {%              assign value = page.collection                  %}
-{%      endif                                                                           %}
+{%      endif                                                   %}
              
 
 <div class="picture-grid">
@@ -45,9 +45,9 @@
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
 		                        {% if value == "members" %}
-					    <div class="caption">{{ item.title }} - ({{ total_index }}) {{ value}}</div>
+					    <div class="caption">{{ item.title }} MY ({{ total_index }}) {{ value}}</div>
 					{% else %}
-					    <div class="caption">{{ item.title }} - {{ value }}</div>
+					    <div class="caption">{{ item.title }} MY {{ value }}</div>
 		                        {% endif %}
 				</a>
 			</div>
