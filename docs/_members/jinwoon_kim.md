@@ -5,7 +5,7 @@ title: Jinwoong Kim
 picture: /assets/photo/jinwoon_kim.jpg
 previous_training:
   MS : Sungkyunkwan University (2025)
-position_joined: ****
+position_joined: TBA
 position: Software developer at SK Hynix
 theme_areas:
   - Operating System
