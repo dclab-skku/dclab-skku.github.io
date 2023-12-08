@@ -19,3 +19,5 @@ github: kirock
 ---
 
 Kirock Kwon (권기록) received the B.S. and M.S. degree in Department of Electronics Engineering from Kyoungbook National University, Korea, in 2000 and 2002, respectively. He is currently a Ph.D. candidate in the Department of Semiconductor Systems Engineering at Sungkyunkwan University. His research interests include file and storage systems, operating systems, and embedded systems.
+
+* Thesis: [An Efficient SLC-buffer Management Scheme for TLC NAND Flash-based Storage](http://www.dcollection.net/handler/skku/000000154345)
