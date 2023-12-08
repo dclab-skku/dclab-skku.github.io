@@ -6,8 +6,8 @@ picture: /assets/photo/taehyung_lee.jpg
 previous_training:
   BS : Sungkyunkwan University (2017)
   PhD : Sungkyunkwan University (2024)
-position_joined: -
-position: -
+position_joined: TBA
+position: TBA
 theme_areas:
   - Operating System
   - Memory Subsystem
