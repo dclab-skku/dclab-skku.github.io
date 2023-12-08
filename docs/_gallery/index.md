@@ -7,7 +7,9 @@ title: DC Lab Gallery
 We are collecting photos of our memories of our time together here. This is where we will permanently store memorable photos to remember our classmates. 
 <br>
 <br>
-If you would like to view more photos from our lab, please go to this [LINK](https://github.com/dclab-skku/dclab-skku.github.io/issues). You are also free to upload your own photos at this address.
+If you would like to view more event pictures from our lab, please go to this [LINK](https://github.com/dclab-skku/dclab-skku.github.io/issues).
+Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the [dclab-album](https://github.com/dclab-skku/dclab-album) repository.
+You are also free to upload your photos at these addresses.
 <hr>
 <br>
 
