@@ -5,7 +5,7 @@ title: Wonseok Jeong
 picture: /assets/photo/wonseok_jung.jpg
 previous_training:
   MS : Sungkyunkwan University (2025)
-position_joined: ****
+position_joined: TBA
 position: Software developer at Korea Financial Telecommunications & Clearings Institute
 theme_areas:
   - Operating System
