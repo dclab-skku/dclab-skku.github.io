@@ -10,11 +10,11 @@ the microbial world. All of our code is open source and available on
 about the software we develop.
 <br>
 <br>
-* https://github.com/jonggyup/Grouping-Applications-Using-Geometrical-Information-of-Applications-on-Tabletop-Systems <br>
-* https://github.com/ghdud4006/RemoteNEMO <br>
-* https://github.com/kzeoh/nemoVoice <br>
-* https://github.com/hoholee12/NemoSharing <br>
-* https://github.com/hoholee12/NemoCloudSync<br>
+* [Grouping Application Using Geometrical Information](https://github.com/jonggyup/Grouping-Applications-Using-Geometrical-Information-of-Applications-on-Tabletop-Systems) <br>
+* [Remote NEMO](https://github.com/ghdud4006/RemoteNEMO) <br>
+* [NEMO Voice](https://github.com/kzeoh/nemoVoice) <br>
+* [NEMO Sharing](https://github.com/hoholee12/NemoSharing) <br>
+* [NEMO CloudSync](https://github.com/hoholee12/NemoCloudSync)<br>
 <hr>
 <br>
 <br>
