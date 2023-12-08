@@ -13,6 +13,15 @@
 	{% include picture_grid.html pages=site.CATEGORY columns=6	%}
 {% endcomment %}
 
+{%      if page.collection == "posts"                           %}
+{%              assign value = page.categories[0]               %}
+{%      elsif page.collection == nil                            %}
+{%              assign value = page.category                    %}
+{%      else                                                                            %}
+{%              assign value = page.collection                  %}
+{%      endif                                                                           %}
+             
+
 <div class="picture-grid">
 
 	{%	if include.columns == nil							%}
@@ -35,10 +44,10 @@
 			<div class="col-md-{{width}}">
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
-		                        {% if page.category == "members" %}
-					    <div class="caption">{{ item.title }} - ({{ total_index }}) {{ page.category}}</div>
+		                        {% if value == "members" %}
+					    <div class="caption">{{ item.title }} - ({{ total_index }}) {{ value}}</div>
 					{% else %}
-					    <div class="caption">{{ item.title }} - {{ page.category }}</div>
+					    <div class="caption">{{ item.title }} - {{ value }}</div>
 		                        {% endif %}
 				</a>
 			</div>
