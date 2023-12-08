@@ -4,15 +4,15 @@ status: alumni_ms
 title: Seongmin Kang
 picture: /assets/photo/seongmin_kang.jpg
 previous_training:
-  MS : Sungkyunkwan University (1993)
-position_joined: 1993
-position: Software developer at a company
+  MS : Sungkyunkwan University (2009)
+position_joined: 2006
+position: Software developer at Samsung Electronics
 theme_areas:
   - Operating System
   - Distributed System
   - Software Platform
 email: seongmin_kang@gmail.com
-github: gildong.hong
+github: seongmin_kang
 ---
 
-I (홍길동) explored distributed systems and operating systems during my master's program. I presented research papers at national conferences.
+I (강성민) explored embedded systems and operating systems during my master's program. I presented research papers at national conferences.
