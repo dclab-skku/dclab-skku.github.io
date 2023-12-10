@@ -12,6 +12,14 @@ Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the [dclab
 You are also free to upload your photos at these addresses.
 <hr>
 <br>
+### Oct-16-2021, 엄영익 교수 연구실, 박종규 박사과정 SOSP 2021 국제학술대회 한국기관 최초 논문 게재 
+<a href="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" target=_blank>
+<img src="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" height="200" />
+</a>
+<br>
+분산컴퓨팅연구실의 박종규 박사과정(지도교수 엄영익)이 ACM Symposium on Operating Systems Principles (SOSP) 2021에 “FragPicker: A New Defragmentation Tool for Modern Storage Devices” (저자: 박종규, 엄영익) 논문을 게재하였습니다. 본 논문은 기존 파일 시스템 단편화 제거 기법의 고질적인 문제점인 추가적인 쓰기 발생과 높은 소모 시간을 해결하기 위해 최신 스토리지 디바이스의 내부 특성을 고려한 새로운 단편화 제거 기법을 제안하는 논문입니다. ACM SOSP는 격년으로 개최되는 운영체제 분야 최상위 학술대회로, 이번 SOSP 2021은 총 348편의 논문 중 54편(채택율 15.5%)의 논문이 채택되었습니다. 특히 본 건은 SOSP 학회 54년 역사상 한국 기관 최초의 논문이라는 데에 의미가 있습니다.
+<br>
+<hr>
 
 ### Jul-14-2019, 버지니아텍 민창우 교수님의 System Framework & OS 초대 강의 
 <a href="https://user-images.githubusercontent.com/82404/285230207-d136526f-38a2-4261-89e0-568c49dfc0a7.png" target=_blank>
