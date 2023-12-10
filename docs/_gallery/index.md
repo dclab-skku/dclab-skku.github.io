@@ -12,7 +12,8 @@ Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the [dclab
 You are also free to upload your photos at these addresses.
 <hr>
 <br>
-### Oct-16-2021, 엄영익 교수 연구실, 박종규 박사과정 SOSP 2021 국제학술대회 한국기관 최초 논문 게재 
+
+### Oct-16-2021, 엄영익 교수 연구실, 박종규 박사과정 SOSP 2021 한국기관 최초 논문 게재 
 <a href="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" target=_blank>
 <img src="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" height="200" />
 </a>
