@@ -9,7 +9,7 @@
 
 
 ### DC Lab Album
-* GitHub Homepage (**Now**) - [https://dclab-skku.github.io/dclab-album](https://dclab-skku.github.io/dclab-album)
+* GitHub Homepage - [https://dclab-skku.github.io/dclab-album](https://dclab-skku.github.io/dclab-album)
 * GitHub Repo - [https://github.com/dclab-skku/dclab-labum](https://github.com/dclab-skku/dclab-album)
 <br>
 <br>
