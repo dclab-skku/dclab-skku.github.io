@@ -19,6 +19,16 @@ theme_areas:
 </table>
 </div>
 <div>
+<font class="dclab_papers_class">2024</font>
+</div>
+<ul class="dclab_patents">
+<li>
+"SFS: Random Write Considered Harmful in Solid State Drives”, 
+ USENIX Conference on File and Storage Technologies, 2024/02/27, <b>USENIX Test of Time Awards</b>
+</li>
+</ul>
+<div>
+<div>
 <font class="dclab_papers_class">2020</font>
 </div>
 <ul class="dclab_patents">
