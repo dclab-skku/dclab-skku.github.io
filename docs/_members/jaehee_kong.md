@@ -1,10 +1,10 @@
 ---
 layout: labbies
 status: alumni_ms
-title: Jaehee Gong
-picture: /assets/photo/jaehee_gong.jpg
+title: Jaehee Kong
+picture: /assets/photo/jaehee_kong.jpg
 previous_training:
-  MS : Sungkyunkwan University (2015)
+  MS : Sungkyunkwan University (2013)
 position_joined: 2006
 position: Software developer at Samsung Electronics
 theme_areas:
