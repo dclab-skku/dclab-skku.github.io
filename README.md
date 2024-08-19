@@ -1,6 +1,6 @@
 # 📚 dclab-skku.github.io
 
-최초에 dclab.github.io 주소를 생성하려고 하였습니다. 그러나 애석하게도 외국사람들이 이미 이 웹주소를 선점하였습니다. 그래서 "SKKU DC Lab"의 의미를 담아, "dclab-skku.github.io" 이라는 웹주소를 생성하기로 하였습니다. 
+사실 우리는 최초에 dclab.github.io 이라는 이름의 웹주소를 생성하고 싶었습니다. 그러나 애석하게도 누군가가 이미 이 웹주소를 선점하여 사용중이었습니다. 그래서 우리는 그 대안으로 "SKKU DC Lab"의 의미를 담아, "dclab-skku.github.io" 이라는 웹주소를 만들었습니다. 
 
 ### DC Lab Homepage
 * GitHub Homepage - [https://dclab-skku.github.io](https://dclab-skku.github.io)
