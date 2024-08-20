@@ -11,6 +11,28 @@ Our research lab has many ways of outputting our discoveries. One of our primary
 <br>
 <div id="dc_page_title">
 
+<table class='titTable'>
+<tr>
+<td class='blueLine'><i class='icon-time'></i>2024</td>
+<td class='grayLine'>&nbsp;</td>
+</tr>
+</table>
+</div>
+<div id='dc_page_contents'>
+<div>
+<font class='dclab_papers_class'>국제 컨퍼런스</font>
+</div><ul class='dclab_papers'>
+  <li> Taehyung Lee, Sumit Kumar Monga, Changwoo Min, Young Ik Eom, "<b>MEMTIS: Efficient Memory Tiering with Dynamic Page Classification and Page Size Determination</b>," SOSP 2023 (ACM SIGOPS Symposium on Operating Systems Principles).<br></li>
+  <li> KyungSeok Lee, Taehyung Lee, and Young Ik Eom, "<b>Hybrid Local Cache Model for Enhancing Performance and Memory Footprint of Mobile Heap Allocator</b>," GCCE 2023 (IEEE Global Conference on Consumer Electronics), 2023-10-13.<br></li>
+  <li> Geunsik Lim, Donghyun Kang, MyungJoo Ham, and Young Ik Eom, "<b>SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices</b>," MobiCom 2023 (Annual International Conference On Mobile Computing And Networking).<br></li>
+  <li> Yongju Song, Wook-Hee Kim, Sumit Kumar Monga, Changwoo Min, and Young Ik Eom, "<b>Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices</b>," ASPLOS 2023 (ACM International Conference on Architectural Support for Programming Languages and Operating Systems), 2023-03-28.<br></li>
+  <li> Jeongho Lee, Yongju Song, and Young Ik Eom, "<b>DCA: A Dual-layer Cache Architecture for Providing High Lookup Performance in KV Stores</b>," BigComp 2023 (IEEE International Conference on Big Data and Smart Computing), 2023-02-15.<br></li>
+  <li> Manjong Lee, Jonggyu Park, and Young Ik Eom, "<b>An Efficient F2FS GC Scheme for Improving IO Latency of Foreground Applications</b>," ICCE 2023 (IEEE International Conference on Consumer Electronics), 2023-01-07.<br></li></ul>
+<div>
+<font class='dclab_papers_class'>국내 저널</font>
+</div><ul class='dclab_papers'>
+  <li> 이경석, 이태형, 엄영익, "<b>Scudo 메모리 할당자의 메모리 사용 효율성 분석</b>," 한국정보과학회논문지, Vol. 50, No. 2, pp. 95-102, 2023-02-15.<br></li></ul></div><div id='dc_page_title'>
+
 
 <table class='titTable'>
 <tr>
