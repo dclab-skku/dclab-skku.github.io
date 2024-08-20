@@ -19,7 +19,7 @@ Our research lab has many ways of outputting our discoveries. One of our primary
 </table>
 </div>
 <div id='dc_page_contents'>
-<div>
+<div>  
 <font class='dclab_papers_class'>국제 컨퍼런스</font>
 </div><ul class='dclab_papers'>
   <li>Jonggyu Park and Young Ik Eom, "Locks as a Resource: Fairly Scheduling Lock Occupation with CFL," PPoPP 2024 (ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming), To appear. <br></li></ul>
@@ -36,6 +36,12 @@ Our research lab has many ways of outputting our discoveries. One of our primary
 </div>
 <div id='dc_page_contents'>
 <div>
+
+<font class='dclab_papers_class'>국제 저널</font>
+</div><ul class='dclab_papers'>
+  <li>
+Jonggyu Park and Young Ik Eom, "Filesystem Fragmentation on Modern Storage Systems," ACM Transactions on Computer Systems, Vol. 41, No. 3, pp. 1-27, 2023-12-18.<br></li></ul>
+  
 <font class='dclab_papers_class'>국제 컨퍼런스</font>
 </div><ul class='dclab_papers'>
   <li> Taehyung Lee, Sumit Kumar Monga, Changwoo Min, Young Ik Eom, "<b>MEMTIS: Efficient Memory Tiering with Dynamic Page Classification and Page Size Determination</b>," SOSP 2023 (ACM SIGOPS Symposium on Operating Systems Principles).<br></li>
