@@ -6,7 +6,7 @@ picture: /assets/photo/jaehee_kong.jpg
 previous_training:
   MS : Sungkyunkwan University (2013)
 position_joined: 2006
-position: Software developer at Samsung Electronics
+position: Cisco Systems, Engineering Program Manager, January 2023 – Present; Samsung Electronics, Technical Engineer, January 2004 – December 2021
 theme_areas:
   - Embedded System
   - Linux OS
