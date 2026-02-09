@@ -8,12 +8,18 @@ We are collecting photos of our memories of our time together here. This is wher
 <br>
 <br>
 If you would like to view more event pictures from our lab, please go to this [GitHub Issue](https://github.com/dclab-skku/dclab-skku.github.io/issues).
-Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the <font size=20 color=red><b> [dclab-album](https://dclab-skku.github.io/dclab-album/)</b></font> repository.
+Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the[dclab-album](https://dclab-skku.github.io/dclab-album/)</font> repository.
 You are also free to upload your photos at these addresses.
+<br>
 <br>
   <a href="https://dclab-skku.github.io/dclab-album/"
      style="display:inline-block; padding:12px 18px; font-size:26px; font-weight:800; color:#ffffff; background:#c62828; border-radius:12px; text-decoration:none; box-shadow:0 6px 16px rgba(198,40,40,0.25);">
-    👉 dclab-album 바로가기
+    👉 DCLab 온라인 앨법 
+  </a>
+  
+  <a href="https://github.com/dclab-skku/dclab-skku.github.io/tree/main/photo/"
+     style="display:inline-block; padding:12px 18px; font-size:26px; font-weight:800; color:#ffffff; background:#c62828; border-radius:12px; text-decoration:none; box-shadow:0 6px 16px rgba(198,40,40,0.25);">
+    👉 DCLab 추억 사진들 보관 폴더 (by 분산컴퓨팅랩 식구들)
   </a>
 <br>
 <br>
