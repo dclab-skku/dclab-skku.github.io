@@ -8,10 +8,18 @@ We are collecting photos of our memories of our time together here. This is wher
 <br>
 <br>
 If you would like to view more event pictures from our lab, please go to this [GitHub Issue](https://github.com/dclab-skku/dclab-skku.github.io/issues).
-Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the [dclab-album](https://dclab-skku.github.io/dclab-album/) repository.
+Also, we keep all the photos (e.,g., dump files) of DC Lab by year in the <font size=20 color=red><b> [dclab-album](https://dclab-skku.github.io/dclab-album/)</b></font> repository.
 You are also free to upload your photos at these addresses.
-<hr>
 <br>
+  <a href="https://dclab-skku.github.io/dclab-album/"
+     style="display:inline-block; padding:12px 18px; font-size:26px; font-weight:800; color:#ffffff; background:#c62828; border-radius:12px; text-decoration:none; box-shadow:0 6px 16px rgba(198,40,40,0.25);">
+    👉 dclab-album 바로가기
+  </a>
+<br>
+<br>
+<br>
+
+<hr>
 
 ### Feb-06-2026, 엄영익 교수님 퇴임식 – 성균관대학교 분산컴퓨팅랩
 
