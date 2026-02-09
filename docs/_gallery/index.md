@@ -13,6 +13,35 @@ You are also free to upload your photos at these addresses.
 <hr>
 <br>
 
+### Feb-06-2026, 엄영익 교수님 퇴임식 – 성균관대학교 분산컴퓨팅랩
+
+
+<a href="https://user-images.githubusercontent.com/882404/546928755-f6ec15e9-73b1-4ce8-89f5-9971d16f4bac.jpg" target=_blank>
+<img src="https://user-images.githubusercontent.com/82404/546928755-f6ec15e9-73b1-4ce8-89f5-9971d16f4bac.jpg" height="200" />
+</a>
+<br>
+2026년 2월 6일(금), 성균관대학교 분산컴퓨팅랩에서는  
+오랜 기간 연구실을 이끌어 주신 **엄영익 교수님의 퇴임식**을  
+분산컴퓨팅랩 석·박사 졸업생들과 함께 조촐하지만 뜻깊게 진행하였습니다.
+
+본 행사는 교수님의 연구 인생과 교육자로서의 발자취를 되돌아보고,  
+분산컴퓨팅랩을 거쳐 간 제자들이 한자리에 모여  
+그간의 감사와 존경의 마음을 전하는 자리였습니다.
+
+엄영익 교수님께서는 리눅스 커널, 운영체제, 가상화, 모바일 시스템 등  
+시스템 소프트웨어 전반에 걸친 깊이 있는 연구와  
+수많은 제자 양성을 통해 국내 분산컴퓨팅 및 시스템 연구 발전에  
+큰 기여를 해오셨습니다.
+
+퇴임식에서는 연구실의 주요 연구 성과와 추억을 함께 돌아보고,  
+졸업생들의 축하와 감사 인사, 기념 촬영을 통해  
+분산컴퓨팅랩이라는 공동체의 시간을 다시 한 번 되새기는 계기가 되었습니다.
+
+본 행사는 연구실 구성원 모두에게  
+**한 시대의 마무리이자, 또 다른 시작을 기념하는 소중한 기억**으로 남을 것입니다.
+<br>
+<hr>
+
 ### Oct-16-2021, 엄영익 교수 연구실, 박종규 박사과정 SOSP 2021 한국기관 최초 논문 게재 
 <a href="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" target=_blank>
 <img src="https://user-images.githubusercontent.com/82404/289268482-3317a3c9-fb62-48dc-be63-39c55bd21759.png" height="200" />
