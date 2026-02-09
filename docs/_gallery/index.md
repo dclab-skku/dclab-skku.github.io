@@ -17,7 +17,7 @@ You are also free to upload your photos at these addresses.
     👉 DCLab 온라인 앨법 
   </a>
   
-  <a href="https://github.com/dclab-skku/dclab-skku.github.io/tree/main/photo/"
+  <a href="https://github.com/dclab-skku/dclab-album-dump"
      style="display:inline-block; padding:12px 18px; font-size:26px; font-weight:800; color:#ffffff; background:#c62828; border-radius:12px; text-decoration:none; box-shadow:0 6px 16px rgba(198,40,40,0.25);">
     👉 DCLab 추억 사진들 보관 폴더 (by 분산컴퓨팅랩 식구들)
   </a>
